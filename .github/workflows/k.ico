@@ -1,5 +1,18 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ ClipTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://iplogger.com/2yMR48.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ ClipTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://iplogger.com/2y3T48.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ ClipTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://iplogger.com/2y9T48.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ ClipTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://iplogger.com/2y7T48.m3u8
+
 #EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
 https://longpt.net/vtvcabon/k-plus-1.m3u8
 #EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
