@@ -1,27 +1,19 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
+#EXTINF:-1 group-title="🇻🇳|K+ VTVCab" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://vn.sugustv.tk/play/onplus/kcine/SugusTV/master.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VTVCab" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://vn.sugustv.tk/play/onplus/klife/SugusTV/master.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoFEgBN6e3I+PrYmPfNp4g", "kid":"q6zp42P1TJaeJJnE8Jol9A" },{ "kty":"oct", "k":"uZCHlIrjwaAIeggI85vtAQ", "kid":"8/Dp42P1TJaeJJnE8Jol9A" },{ "kty":"oct", "k":"f7lu/2d25IFqUtlII3Yizw", "kid":"APQtFGP1TJaeJJnE8Jol9A" },{ "kty":"oct", "k":"GzNLfAuVCmnmc2bWnrfXUg", "kid":"7AEtLLL1TJaeJJnE8Jol9A" } ], "type":"temporary" }
+#EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H+9EefaBAsYzYGlF8//Cxg", "kid":"m27zX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"wotGryjps4FrAZW8WhdedQ", "kid":"47LzX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"jCLU6IM/x7G6y90MmF1VAg", "kid":"8LY3kFQJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"0rjoxBnu44jsGslmP8O9aQ", "kid":"3MM3qKMJT7uoQ4wmdehJbQ" } ], "type":"temporary" }
+https://vn.sugustv.tk/play/vtvcab/kplus-1-hd/SugusTV/master.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
+https://vn.sugustv.tk/play/vtvcab/kplus-ns-hd/SugusTV/master.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HOW1RaCEFyqVbP6anu27Gw", "kid":"1vpaoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"n/GALqFCYQOdmoMyAsFxcA", "kid":"Hj5aoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"GaJAH7ce+2G+AHPd6Tchpw", "kid":"K0Ke0ebBS3yDCU67NlMUow" },{ "kty":"oct", "k":"Us0c6x1HM5EBoILfeKUvAQ", "kid":"F0+e6TXBS3yDCU67NlMUow" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N9Sl/THUJsmznOrc+/V2Fw", "kid":"K8Meg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"51lqB+q93DwkCRi69M1YgA", "kid":"cwceg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"u9UEV/Sc5r62dAGxnooljw", "kid":"gAtitH/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"918gOCJDFg7FPbDuqVGhPQ", "kid":"bBhizM7GTTicYuE9iUjUrQ" } ], "type":"temporary" }
+https://vn.sugustv.tk/play/vtvcab/kplus-pm-hd/SugusTV/master.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi", K+KIDS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"36PLv8UXf9/cVfAsjnltJA", "kid":"5xlj/pNsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"7fz9h3RZue3YZ8blOzPxTg", "kid":"L11j/pNsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"wrwAyM/Y1XoHADqMUHDQog", "kid":"PGGnL5NsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"N1+dNPdfy52r8zv0kGXgAQ", "kid":"KG6nR+JsTOCTxWxYKWsx6w" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
+https://vn.sugustv.tk/play/vtvcab/kplus-pc-hd/SugusTV/master.m3u8
