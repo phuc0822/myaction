@@ -1,19 +1,25 @@
-#EXTINF:-1 group-title="🇻🇳|K+ VTVCab" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2N5f00erR4Mezvq0//urQQ","kid":"R5JOaES8T2OMrCKDbsanxA"},{"kty":"oct","k":"YiAH3Q69x5iruk7QCpydJw","kid":"j9ZOaES8T2OMrCKDbsanxA"},{"kty":"oct","k":"aKskERFjx1Mf3v9FItPAtg","kid":"nNqSmUS8T2OMrCKDbsanxA"},{"kty":"oct","k":"vezflSOsmyquYNInjm1X8w","kid":"iOeSsZO8T2OMrCKDbsanxA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vn.sugustv.tk/play/onplus/kcine/SugusTV/master.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VTVCab" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
+#EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8B/Edo2gAQ8/yPCNHJESvw","kid":"KVUGKUrqRmeK5elWR8KsGg"},{"kty":"oct","k":"Luk5hW/o2zfAWvFF4ilXEg","kid":"cZkGKUrqRmeK5elWR8KsGg"},{"kty":"oct","k":"QzrJVNUfD2nUl6rkfSe7fA","kid":"fp1KWkrqRmeK5elWR8KsGg"},{"kty":"oct","k":"Tm4vvaFgM/z4LR0O1+GUvQ","kid":"aqpKcpnqRmeK5elWR8KsGg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vn.sugustv.tk/play/onplus/klife/SugusTV/master.m3u8
-
-#EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vn.sugustv.tk/play/vtvcab/kplus-1-hd/SugusTV/master.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yPA3kla7VsQQW3LGZ8OlkA","kid":"LIwPq0QPSHOnUPrBgrs2Sw"},{"kty":"oct","k":"paKr98ek75VqcRyFKJvRbQ","kid":"dNAPq0QPSHOnUPrBgrs2Sw"},{"kty":"oct","k":"mlQ/PFJ6XiOiK3yeCTcZqw","kid":"gdRT3EQPSHOnUPrBgrs2Sw"},{"kty":"oct","k":"nybVfguhF7nX9oGJLhz2fA","kid":"beFT9JMPSHOnUPrBgrs2Sw"}],"type":"temporary"}
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x6WO1bJSdVSh3AkTGf/DqA","kid":"jaAurSLvQ7+VhVyOYOgMLw"},{"kty":"oct","k":"Qv+zGy043bd0sg71sbfYHg","kid":"1eQurSLvQ7+VhVyOYOgMLw"},{"kty":"oct","k":"I1XTQ2KKbd8wc04ZcwHw1Q","kid":"4uhy3iLvQ7+VhVyOYOgMLw"},{"kty":"oct","k":"rt7SjTDmlYj80r5vQl5SPw","kid":"zvVy9nHvQ7+VhVyOYOgMLw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vn.sugustv.tk/play/vtvcab/kplus-ns-hd/SugusTV/master.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi", K+KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+OfSnBEAsm1EoOBM68jwfQ","kid":"wpejwx9oSIijD9jjcf2i9g"},{"kty":"oct","k":"+zjm7EUsBX4G7bEVYgtE4Q","kid":"Ctujwx9oSIijD9jjcf2i9g"},{"kty":"oct","k":"UDhaThHXe5MQEMUC0Ho5Dw","kid":"F9/n9B9oSIijD9jjcf2i9g"},{"kty":"oct","k":"xt5BbPpPASJwE8XiBLoS8g","kid":"A+znDG5oSIijD9jjcf2i9g"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vn.sugustv.tk/play/vtvcab/kplus-pm-hd/SugusTV/master.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VTVCabON" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vn.sugustv.tk/play/vtvcab/kplus-pc-hd/SugusTV/master.m3u8
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
