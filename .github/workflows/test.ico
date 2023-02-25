@@ -97,29 +97,46 @@ https://856175157.r.vtvcdn.com/hls/THETHAO_GOLF_HD_CL/sc-gaFEAA/m40_index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"roOM/RPYtLRL9JY6eHhfUA", "kid":"DibC3DM+R0id4kExw7noHw" } ], "type":"temporary" }
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"idujgHe54YlRNXKcJ2X8nQ", "kid":"79heDyqnQXC313NafOz7JA" } ], "type":"temporary" }
+http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X7Nib3/MNx60y3Q243B59g", "kid":"S61ILmQKRvqFzh2PNyi9cw" } ], "type":"temporary" }
+http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4PrWoTuIHEg7gKtZ7XdF3A", "kid":"3UPJaQewRDuGEP52SQYVyQ" } ], "type":"temporary" }
+http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2N5f00erR4Mezvq0//urQQ","kid":"R5JOaES8T2OMrCKDbsanxA"},{"kty":"oct","k":"YiAH3Q69x5iruk7QCpydJw","kid":"j9ZOaES8T2OMrCKDbsanxA"},{"kty":"oct","k":"aKskERFjx1Mf3v9FItPAtg","kid":"nNqSmUS8T2OMrCKDbsanxA"},{"kty":"oct","k":"vezflSOsmyquYNInjm1X8w","kid":"iOeSsZO8T2OMrCKDbsanxA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2j33096JCwhHA1N3S5y6Hw","kid":"DShcorNYSpSWfRDExCLRkw"},{"kty":"oct","k":"1P4qcRMebC6xD+gFcvOQhg","kid":"VWxcorNYSpSWfRDExCLRkw"},{"kty":"oct","k":"Wc9PMbFynlX2WHBiDkYxaw","kid":"YnCg07NYSpSWfRDExCLRkw"},{"kty":"oct","k":"uA842vs348ceGm/VeUbRRA","kid":"Tn2g6wJYSpSWfRDExCLRkw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8B/Edo2gAQ8/yPCNHJESvw","kid":"KVUGKUrqRmeK5elWR8KsGg"},{"kty":"oct","k":"Luk5hW/o2zfAWvFF4ilXEg","kid":"cZkGKUrqRmeK5elWR8KsGg"},{"kty":"oct","k":"QzrJVNUfD2nUl6rkfSe7fA","kid":"fp1KWkrqRmeK5elWR8KsGg"},{"kty":"oct","k":"Tm4vvaFgM/z4LR0O1+GUvQ","kid":"aqpKcpnqRmeK5elWR8KsGg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vA8skc5TSCEodnoAcNlxUA","kid":"rwEjpbJGTKedrNXTyFTR2Q"},{"kty":"oct","k":"whs2WUT1dy1IUqC9AUyE4g","kid":"90UjpbJGTKedrNXTyFTR2Q"},{"kty":"oct","k":"N5DzlXEbegVIPlfupLePjQ","kid":"BEln1rJGTKedrNXTyFTR2Q"},{"kty":"oct","k":"YxpWoG+L6Lb9fU2HVpdIvA","kid":"8FZn7gFGTKedrNXTyFTR2Q"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yPA3kla7VsQQW3LGZ8OlkA","kid":"LIwPq0QPSHOnUPrBgrs2Sw"},{"kty":"oct","k":"paKr98ek75VqcRyFKJvRbQ","kid":"dNAPq0QPSHOnUPrBgrs2Sw"},{"kty":"oct","k":"mlQ/PFJ6XiOiK3yeCTcZqw","kid":"gdRT3EQPSHOnUPrBgrs2Sw"},{"kty":"oct","k":"nybVfguhF7nX9oGJLhz2fA","kid":"beFT9JMPSHOnUPrBgrs2Sw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"84Qye+8YlhUSRig/jgbwFQ","kid":"9tNiDgIKTEisfZzfqpaMWg"},{"kty":"oct","k":"wj2qE21/4NYsALUuGROU7Q","kid":"PhdiDgIKTEisfZzfqpaMWg"},{"kty":"oct","k":"TVHQjUKPC9inyVU0gUqbRw","kid":"SxumPwIKTEisfZzfqpaMWg"},{"kty":"oct","k":"KHBpWVPpuaPU/lXtuc/S0A","kid":"NyimV1EKTEisfZzfqpaMWg"}],"type":"temporary"}
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x6WO1bJSdVSh3AkTGf/DqA","kid":"jaAurSLvQ7+VhVyOYOgMLw"},{"kty":"oct","k":"Qv+zGy043bd0sg71sbfYHg","kid":"1eQurSLvQ7+VhVyOYOgMLw"},{"kty":"oct","k":"I1XTQ2KKbd8wc04ZcwHw1Q","kid":"4uhy3iLvQ7+VhVyOYOgMLw"},{"kty":"oct","k":"rt7SjTDmlYj80r5vQl5SPw","kid":"zvVy9nHvQ7+VhVyOYOgMLw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aQqLcDbXEtgkZiv1Uuswjg","kid":"qPkBsdyMQ6iPXtuwrI4qbA"},{"kty":"oct","k":"eNnUc3jV5Q3vh46t+j3Q1A","kid":"8D0BsdyMQ6iPXtuwrI4qbA"},{"kty":"oct","k":"xEPs+FDJDxe9AR+GHkOn3w","kid":"/UFF4tyMQ6iPXtuwrI4qbA"},{"kty":"oct","k":"QA25Q/+1iXTL0FpDp+i7pw","kid":"6U5F+iuMQ6iPXtuwrI4qbA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi", K+KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+OfSnBEAsm1EoOBM68jwfQ","kid":"wpejwx9oSIijD9jjcf2i9g"},{"kty":"oct","k":"+zjm7EUsBX4G7bEVYgtE4Q","kid":"Ctujwx9oSIijD9jjcf2i9g"},{"kty":"oct","k":"UDhaThHXe5MQEMUC0Ho5Dw","kid":"F9/n9B9oSIijD9jjcf2i9g"},{"kty":"oct","k":"xt5BbPpPASJwE8XiBLoS8g","kid":"A+znDG5oSIijD9jjcf2i9g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xbjL8j424fhxzjfzLElicQ","kid":"tQx4sxyjQdeGaMFyYJjcXg"},{"kty":"oct","k":"uQAzqDevCv1uv2/ZlN3QkA","kid":"/VB4sxyjQdeGaMFyYJjcXg"},{"kty":"oct","k":"vNCwjnZsAatYINiBOVpFZQ","kid":"ClS85ByjQdeGaMFyYJjcXg"},{"kty":"oct","k":"rmcULwJu6k+qflQVQAiriA","kid":"9mG8/GujQdeGaMFyYJjcXg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
@@ -136,7 +153,8 @@ https://api.anttv.xyz/get/mytv/397/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/240px-VTC6_logo_2018.svg.png" group-title="🇻🇳| VTC" tvg-chno="15" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/TodayTV_2017.png/revision/latest/scale-to-width-down/200?cb=20220315011241&path-prefix=vi" group-title="🇻🇳| VTC" tvg-chno="16" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,TodayTV VTC7
-https://api.anttv.xyz/get/mytv/398/hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.vthanhtivi.pw/v2/getlink/vieon/vtc7-todaytv-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/240px-VTC8_logo_2018.svg.png" group-title="🇻🇳| VTC" tvg-chno="17" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/239px-VTC9_logo_2018.svg.png" group-title="🇻🇳| VTC" tvg-chno="18" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC9
@@ -1817,23 +1835,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:-1 group-title="🇷🇺| Kênh Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/220px-TV-3_logo_%282015%29.png",TV3
 http://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Px9xzGSPP9edJgYL9hY2SA","kid":"Ehz1v27nQZKuY2SmD0kqVA"}],"type":"temporary"}
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kETktdhDDu3Hd6hV17XlXg","kid":"zCgxGrP9S7eznQrNWNjVAw"}],"type":"temporary"}
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Kppi0iLkP65skRnIqNh8Aw","kid":"FEeYw86wRKy45tLwj/iLog"}],"type":"temporary"}
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pH5xUM7bGFVlI44TfriUWA","kid":"PyCw7LaWRUms9FDcNxm/3g"}],"type":"temporary"}
-http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 tvg-id="klive1" group-title="🇻🇳|K+" tvg-logo="", K+LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
