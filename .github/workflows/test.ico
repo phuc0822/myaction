@@ -333,8 +333,8 @@ http://103.90.220.236/bptvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| Địa phương" tvg-logo="http://binhthuantv.vn/wp-content/themes/dongthap/favicon.png", BTV - Bình Thuận
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/CTV_Ca_Mau.png/revision/latest/scale-to-width-down/180?cb=20211209002856&path-prefix=vi", CTV - Cà Mau
-#EXTVLCOPT:http-user-agent=P82Media
-https://api.vthanhtivi.pw/v2/getlink/vieon/ca-mau-1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/CRTV_logo_1997.png/revision/latest/scale-to-width-down/180?cb=20220427114001&path-prefix=vi", CRTV - Cao Bằng
 https://code.vthanhtivi.pw/getlink/mytv/141/hd.m3u8
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
@@ -354,7 +354,7 @@ https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/%C4%90N1-RTV_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20211207103154&path-prefix=vi", ĐN1 - Đồng Nai
 https://code.vthanhtivi.pw/getlink/mytv/404/hd.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/%C4%90N2-RTV_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20211207103222&path-prefix=vi", ĐN2 - Đồng Nai
-https://api.vthanhtivi.pw/v2/getlink/tv360/255/3.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/%C4%90N3_logo_2018_v1.png/revision/latest/scale-to-width-down/200?cb=20211026014707&path-prefix=vi", ĐN3 - Đồng Nai
 https://api.vthanhtivi.pw/v2/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Logo_TH%C4%90T1_%C4%90%E1%BB%93ng_Th%C3%A1p_%28B%E1%BA%A3n_1%29.png/revision/latest/scale-to-width-down/200?cb=20220403100548&path-prefix=vi", THĐT1 - Đồng Tháp
