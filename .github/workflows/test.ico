@@ -114,6 +114,37 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4PrWoTuIHEg7gKtZ7XdF3A", "kid":"3UPJaQewRDuGEP52SQYVyQ" } ], "type":"temporary" }
 http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/p82media.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kslifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/p82media.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/p82media.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/p82media.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/p82media.m3u8
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kslifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EDyq+GV+KAyuJv/idp6wrg","kid":"otqY/SHzSbmQY6nO0d96bw"},{"kty":"oct","k":"1I6GBwfcbfbMZax0rw8GWw","kid":"6h6Y/SHzSbmQY6nO0d96bw"},{"kty":"oct","k":"xTzOQT4tmjqkxUN2wRmCyA","kid":"9yLcLiHzSbmQY6nO0d96bw"},{"kty":"oct","k":"JRUCLx5WlmMt72z+uEq7hg","kid":"4y/cRnDzSbmQY6nO0d96bw"}],"type":"temporary"}
@@ -623,6 +654,8 @@ https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://www.usagm.gov/wp-content/uploads/2022/01/RFA-logo-RGB-1.png",Radio Free Asia
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/VOA-TVMC08_1080/chunklist.m3u8
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 http://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
 #EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/512px-Rai_News_24_logo_%282022%29.svg.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
@@ -648,6 +681,7 @@ https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/320px-VOA_logo.svg.png", VOA - Voice of America
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/chunklist.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://lh3.googleusercontent.com/3EY0ovSEZCfmbSyu5CTOhpUmrAFeew6v54t6bqa9E56ws7UTrQKGxs-XIkxsKHyAobA", WION TV
 http://91.224.190.66:4243/bysid/52119
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Yahoo_Finance_Logo_2019.png", Yahoo Finance
@@ -1777,42 +1811,6 @@ https://sglivevng.kplus.vn/bpk-tv/prod_klive4/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://longpt.net/clearkey/results.php?keyid=cc51bb623e2243aeb1647f7b48b85fdd&key=42c25f00230fb0eddf63d4d583f9839a
 https://sglivevng.kplus.vn/bpk-tv/prod_klive5/default/i.mpd
-
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://longpt.net/key.php?id=ksport1vieon
-https://longpt.net/vieon/ksport1.mpd|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://longpt.net/key.php?id=ksport2vieon
-https://longpt.net/vieon/ksport2.mpd|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://longpt.net/key.php?id=kcinevieon
-https://longpt.net/vieon/kcine.mpd|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/k-1-hd/
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kslifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://longpt.net/key.php?id=klifevieon
-https://longpt.net/vieon/klife.mpd|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://longpt.net/key.php?id=kkidsvieon
-https://longpt.net/vieon/kkids.mpd|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
