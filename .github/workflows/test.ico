@@ -99,75 +99,44 @@ https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"roOM/RPYtLRL9JY6eHhfUA", "kid":"DibC3DM+R0id4kExw7noHw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/my_kcine.key
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"idujgHe54YlRNXKcJ2X8nQ", "kid":"79heDyqnQXC313NafOz7JA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/my_klife.key
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X7Nib3/MNx60y3Q243B59g", "kid":"S61ILmQKRvqFzh2PNyi9cw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/my_ksp1.key
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4PrWoTuIHEg7gKtZ7XdF3A", "kid":"3UPJaQewRDuGEP52SQYVyQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/my_ksp2.key
 http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/p82media.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kslifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/p82media.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/p82media.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/p82media.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/p82media.m3u8
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kslifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EDyq+GV+KAyuJv/idp6wrg","kid":"otqY/SHzSbmQY6nO0d96bw"},{"kty":"oct","k":"1I6GBwfcbfbMZax0rw8GWw","kid":"6h6Y/SHzSbmQY6nO0d96bw"},{"kty":"oct","k":"xTzOQT4tmjqkxUN2wRmCyA","kid":"9yLcLiHzSbmQY6nO0d96bw"},{"kty":"oct","k":"JRUCLx5WlmMt72z+uEq7hg","kid":"4y/cRnDzSbmQY6nO0d96bw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/myk_kcine.key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1L3ak1UPbDn/xWHVgKulLg","kid":"+06Qe+tDSTe6V7U8XbAs+A"},{"kty":"oct","k":"LFaHP6GKHmRjZIBUIM8P/w","kid":"Q5KQe+tDSTe6V7U8XbAs+A"},{"kty":"oct","k":"5JIEA4uYWI001JIEaJox/Q","kid":"UJbUrOtDSTe6V7U8XbAs+A"},{"kty":"oct","k":"xebYfSRXD+/kbkS/WR3PtA","kid":"PKPUxDpDSTe6V7U8XbAs+A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/myk_klife.key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K/nSBz/SmUD7kCZOpQw0rw","kid":"GR53MInESNOGdm8VSteQWg"},{"kty":"oct","k":"7dfQ+erBFkUKJpILlppbLg","kid":"YWJ3MInESNOGdm8VSteQWg"},{"kty":"oct","k":"ka0CqhAvQnw+X/W/MmujFQ","kid":"bma7YYnESNOGdm8VSteQWg"},{"kty":"oct","k":"q7isub5Enj7St8uU9P7tLg","kid":"WnO7edjESNOGdm8VSteQWg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/myk_ksp1.key
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"reoL79Dci13AxECy55iTMA","kid":"cgI+T7i7SNWBq0fI56DjBg"},{"kty":"oct","k":"i1DhZodx1qmFxz+GaYYu5Q","kid":"ukY+T7i7SNWBq0fI56DjBg"},{"kty":"oct","k":"dIBIvT3hpd9tWXzLrXkdTw","kid":"x0qCgLi7SNWBq0fI56DjBg"},{"kty":"oct","k":"5+zJ8qcxhSXLKm2H5roNeA","kid":"s1eCmAe7SNWBq0fI56DjBg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/myk_ksp2.key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi", K+KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xbjL8j424fhxzjfzLElicQ","kid":"tQx4sxyjQdeGaMFyYJjcXg"},{"kty":"oct","k":"uQAzqDevCv1uv2/ZlN3QkA","kid":"/VB4sxyjQdeGaMFyYJjcXg"},{"kty":"oct","k":"vNCwjnZsAatYINiBOVpFZQ","kid":"ClS85ByjQdeGaMFyYJjcXg"},{"kty":"oct","k":"rmcULwJu6k+qflQVQAiriA","kid":"9mG8/GujQdeGaMFyYJjcXg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/phuc0822/clearkey/main/myk_kkids.key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
@@ -192,7 +161,7 @@ https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/239px-VTC9_logo_2018.svg.png" group-title="🇻🇳| VTC" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc9-hd/dvr-${start}-${offset}.m3u8",VTC9
 https://vips-livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/VTC10_logo_2018-nay.png/revision/latest/scale-to-width-down/180?cb=20220626043356&path-prefix=vi" group-title="🇻🇳| VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10
-https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/vtc10hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/240px-VTC11_logo_2018.svg.png" group-title="🇻🇳| VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/VTC12_logo_2018.svg/240px-VTC12_logo_2018.svg.png" group-title="🇻🇳| VTC" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC12
@@ -1785,6 +1754,22 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:-1 group-title="🇷🇺| Kênh Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/220px-TV-3_logo_%282015%29.png",TV3
 http://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kslifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 group-title="🇻🇳|K+ VieOn" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="klive1" group-title="🇻🇳|K+" tvg-logo="", K+LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
