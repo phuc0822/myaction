@@ -504,7 +504,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http:/
 https://api.vthanhtivi.pw/v2/getlink/cliptv/838/playlist.m3u8
 #EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1628059719/cmc_new/img.live_channel/0/0/0/0/269.jpg", MAN
 https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest?cb=20211017093409&path-prefix=vi", Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest?cb=20211017093409&path-prefix=vi", MUSIC BOX
 https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/Planet_Earth_logo.png/revision/latest/scale-to-width-down/200?cb=20220714132655&path-prefix=vi", Planet Earth
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -513,13 +513,13 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=htt
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/200px-Animaxlogo-20160701.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/200px-Animaxlogo-20160701.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANIMAX
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/160px-Boomerang_2014_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
+#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/160px-Boomerang_2014_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BOOMERANG
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest/scale-to-width-down/250?cb=20201205013126", Dreamworks
@@ -865,10 +865,8 @@ https://alchimie-luxe-uk-rakuten.amagi.tv/playlist1080_p.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🎬| Giải trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Xing_Kong_China.svg/revision/latest/scale-to-width-down/250" group-title="🎬| Giải trí",Xing Kong
-https://anv-livechannel-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+http://live.cooltv.top/tv/good.php?id=xingkong_1500
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/Warner_TV_Asia.png/revision/latest/scale-to-width-down/200?cb=20221112073918&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
 #EXTVLCOPT:http-user-agent=P82Media
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
@@ -987,6 +985,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 tvg-id="cctv16" group-title="🇨🇳| CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/CCTV-16_HD.png/revision/latest/scale-to-width-down/180?cb=20220508122619&path-prefix=vi", CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="cctv16" group-title="🇨🇳| CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/CCTV-16_HD.png/revision/latest/scale-to-width-down/180?cb=20220508122619&path-prefix=vi", CCTV16 4K
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="cctv17" group-title="🇨🇳| CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/CCTV-17_HD.png/revision/latest/scale-to-width-down/180?cb=20220823122248&path-prefix=vi", CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="🇨🇳| CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83_logo.png/revision/latest/scale-to-width-down/180?cb=20220705123927&path-prefix=vi", CCTV Billiards
@@ -1017,7 +1017,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 #EXTINF:-1 group-title="🇨🇳| Giải trí" tvg-logo="https://cdn-icons-png.flaticon.com/512/974/974485.png", 爱上4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="🇨🇳| Giải trí" tvg-logo="https://cdn-icons-png.flaticon.com/512/974/974485.png", 欢笑剧场4K
+#EXTINF:-1 group-title="🇨🇳| Giải trí" tvg-logo="https://pic1.ntimg.cn/pic/20200229/26753533_214536941389_4.jpg", 欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="cetv1" group-title="🇨🇳| CETV" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv1.jpg", CETV1
 http://103.130.141.67:81/live/23/playlist.m3u8
@@ -1072,6 +1072,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
 #EXTINF:-1 tvg-id="guangdong" group-title="🇨🇳| Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Quảng Đông
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 http://103.130.141.67:81/live/17/playlist.m3u8
+#EXTINF:-1 tvg-id="guangdong" group-title="🇨🇳| Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Quảng Đông 4K
+http://live.cooltv.top/tv/good.php?id=GDZYHD4K_38000
 #EXTINF:-1 tvg-id="guangxi" group-title="🇨🇳| Địa phương" tvg-logodrag="https://photos.live-tv-channels.org/tv-logo/cn-guangxi-tv-8199.jpg", Quảng Tây
 http://103.130.141.67:81/live/18/playlist.m3u8
 #EXTINF:-1 tvg-id="guizhou" group-title="🇨🇳| Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/guizhoutv.jpg", Quý Châu
