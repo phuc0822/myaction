@@ -720,6 +720,8 @@ http://2.cvmtv.site/futbol1
 http://2.cvmtv.site/futbol2
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="MatchFutbol3.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
 http://2.cvmtv.site/futbol3
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",МUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561591625_oman-tv-sport-.jpg",Oman Sports
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_limit,w_466,h_256/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",Red Bull TV
