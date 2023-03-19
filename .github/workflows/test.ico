@@ -986,9 +986,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 tvg-id="cctv16" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/CCTV-16_HD.png/revision/latest/scale-to-width-down/180?cb=20220508122619&path-prefix=vi", CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="cctv16" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/CCTV-16_HD.png/revision/latest/scale-to-width-down/180?cb=20220508122619&path-prefix=vi", CCTV16 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="cctv17" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/CCTV-17_HD.png/revision/latest/scale-to-width-down/180?cb=20220823122248&path-prefix=vi", CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="cctv4k" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/CCTV-4K.png/revision/latest/scale-to-width-down/180?cb=20220508121854&path-prefix=vi", CCTV 4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83_logo.png/revision/latest/scale-to-width-down/180?cb=20220705123927&path-prefix=vi", CCTV Billiards
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/56/CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81_logo.png/revision/latest/scale-to-width-down/180?cb=20220705124054&path-prefix=vi", CCTV Cultural Boutique
@@ -1016,20 +1019,31 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇨🇳|Kênh CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4f/CCTV_2015.png/revision/latest/scale-to-width-down/180?cb=20200608130252&path-prefix=vi", TV SHOW
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇨🇳|Giải trí" tvg-logo="https://cdn-icons-png.flaticon.com/512/974/974485.png", 爱上4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="P82Media|🇨🇳|Giải trí" tvg-logo="https://cdn-icons-png.flaticon.com/512/974/974485.png", 爱上4K
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇨🇳|Giải trí" tvg-logo="https://pic1.ntimg.cn/pic/20200229/26753533_214536941389_4.jpg", 欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="cetv1" group-title="P82Media|🇨🇳|CETV" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv1.jpg", CETV1
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?
 http://103.130.141.67:81/live/23/playlist.m3u8
 #EXTINF:-1 tvg-id="cetv2" group-title="P82Media|🇨🇳|CETV" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv2.jpg", CETV2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 #EXTINF:-1 tvg-id="cetv3" group-title="P82Media|🇨🇳|CETV" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv3.jpg", CETV3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/ 224/3221226226/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="cetv4" group-title="P82Media|🇨🇳|CETV" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv4.jpg", CETV4
+http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 #EXTINF:-1 tvg-id="anhui" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png", An Huy
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 http://103.130.141.67:81/live/40/playlist.m3u8
+#EXTINF:-1 tvg-id="ankang" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.sxakhidz.gov.cn/UploadFiles/akgxjscykfqglwyh/2022/5/202205171800521026.jpg", An Khang 1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+#EXTINF:-1 tvg-id="baoji1" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/ea/9b/10/ea9b102f-e63a-4c0b-1f83-3dee8d1601bf/source/512x512bb.jpg", Bảo Kê 1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226381/index.m3u8
+#EXTINF:-1 tvg-id="baoji2" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/ea/9b/10/ea9b102f-e63a-4c0b-1f83-3dee8d1601bf/source/512x512bb.jpg", Bảo Kê 2
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226382/index.m3u8
 #EXTINF:-1 tvg-id="btv1" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png", Bắc Kinh
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 http://103.130.141.67:81/live/42/playlist.m3u8
@@ -1054,8 +1068,18 @@ http://103.130.141.67:81/live/36/playlist.m3u8
 http://103.130.141.67:81/live/44/playlist.m3u8
 #EXTINF:-1 tvg-id="henan" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/HNTV_new_logo.png", Hà Nam
 http://103.130.141.67:81/live/33/playlist.m3u8
-#EXTINF:-1 tvg-id="ningxia" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Ningxia_TV_logo.png/120px-Ningxia_TV_logo.png", Ninh Hạ
-http://103.130.141.67:81/live/34/playlist.m3u8
+#EXTINF:-1 tvg-id="henan" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/HNTV_new_logo.png", Hà Nam 4K
+http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-id="hainan1" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg", Hải Nam 1
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?
+#EXTINF:-1 tvg-id="hainan2" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg", Hải Nam 2
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?
+#EXTINF:-1 tvg-id="hainan3" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg", Hải Nam 3
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?
+#EXTINF:-1 tvg-id="hainan4" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg", Hải Nam 4
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
+#EXTINF:-1 tvg-id="hainan5" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg", Hải Nam 5
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?
 #EXTINF:-1 tvg-id="heilongjiang" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Hljtv.png", Hắc Long Giang
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 http://103.130.141.67:81/live/47/playlist.m3u8
@@ -1067,22 +1091,34 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 http://103.130.141.67:81/live/45/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://p6.toutiaoimg.com/origin/tos-cn-i-qvj2lq49k0/ccd6e385016b4294bdce6d9b51776bec", Hoạt Hình Hồ Nam
 http://103.130.141.67:81/live/2/playlist.m3u8
-#EXTINF:-1 tvg-id="liaoning" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Liaoning_Television_Logo.png", Liêu Ninh HD
+#EXTINF:-1 group-title="P82Media|🇨🇳|Địa phương" tvg-logo="", Kiềm Dương
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226945/index.m3u8
+#EXTINF:-1 group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202209/16/122700b355duywwd4bwuw4.png", Leyou
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+#EXTINF:-1 tvg-id="liaoning" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Liaoning_Television_Logo.png", Liêu Ninh
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000367/index.m3u8?
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
+#EXTINF:-1 tvg-id="ningxia" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Ningxia_TV_logo.png/120px-Ningxia_TV_logo.png", Ninh Hạ
+http://103.130.141.67:81/live/34/playlist.m3u8
 #EXTINF:-1 tvg-id="guangdong" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Quảng Đông
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 http://103.130.141.67:81/live/17/playlist.m3u8
 #EXTINF:-1 tvg-id="guangdong" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Quảng Đông 4K
 http://live.cooltv.top/tv/good.php?id=GDZYHD4K_38000
 #EXTINF:-1 tvg-id="guangxi" group-title="P82Media|🇨🇳|Địa phương" tvg-logodrag="https://photos.live-tv-channels.org/tv-logo/cn-guangxi-tv-8199.jpg", Quảng Tây
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000090000000215605/index.m3u8
 http://103.130.141.67:81/live/18/playlist.m3u8
 #EXTINF:-1 tvg-id="guizhou" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/guizhoutv.jpg", Quý Châu
 http://103.130.141.67:81/live/5/playlist.m3u8
+#EXTINF:-1 tvg-id="sansha" group-title="P82Media|🇨🇳|Kênh Trung Quốc" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch553_425_305", San Sha
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
 #EXTINF:-1 tvg-id="shandong" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/SDTV_logo.png/180px-SDTV_logo.png", Sơn Đông
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 http://103.130.141.67:81/live/31/playlist.m3u8
 #EXTINF:-1 tvg-id="shan1xi" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanxi_tv_cn.png", Sơn Tây
 http://103.130.141.67:81/live/32/playlist.m3u8
+#EXTINF:-1 group-title="P82Media|🇨🇳|Địa phương" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191125/9f19411526164f6ab2455e433c7d13db.jpeg", Thành Cố
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
 #EXTINF:-1 tvg-id="shenzhen" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cn-shenzhen-satellite-tv-2217.jpg", Thâm Quyến
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 http://103.130.141.67:81/live/24/playlist.m3u8
@@ -1096,6 +1132,7 @@ http://103.130.141.67:81/live/41/playlist.m3u8
 #EXTINF:-1 tvg-id="chongqing" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQGSmgEK_fbe4A/company-logo_200_200/0/1590531602649?e=2147483647&v=beta&t=qw6AfqqAN1-5Frq3DQ-aj-E9EECCdIKab97XhETFUQw", Trùng Khánh
 http://103.130.141.67:81/live/29/playlist.m3u8
 #EXTINF:-1 tvg-id="yunnan" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg", Vân Nam
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000090000000215606/index.m3u8
 http://103.130.141.67:81/live/19/playlist.m3u8
 #EXTINF:-1 tvg-id="youmankangba" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.lyngsat.com/logo/tv/yy/youman_cartoon_channel_cn.png", You Man Cartoon
 http://103.130.141.67:81/live/22/playlist.m3u8
@@ -1106,6 +1143,7 @@ http://103.130.141.67:81/live/27/playlist.m3u8
 #EXTINF:-1 tvg-id="neimongolchinese" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Nei_Mongol_Television.png/440px-Nei_Mongol_Television.png", Nei Mongol Chinese
 http://103.130.141.67:81/live/28/playlist.m3u8
 #EXTINF:-1 tvg-id="shan3xi" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shaanxi-satellite-tv-cn.png", Thiểm Tây
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000090000000215607/index.m3u8
 http://103.130.141.67:81/live/35/playlist.m3u8
 #EXTINF:-1 tvg-id="shaanxiagriculture" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shaanxi-tv-agriculture-forestry-tv-cn.png", Thiểm Tây Nông Lâm Nghiệp
 http://103.130.141.67:81/live/54/playlist.m3u8
@@ -1117,7 +1155,7 @@ http://103.130.141.67:81/live/55/playlist.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 #EXTINF:-1 tvg-id="hks" group-title="P82Media|🇨🇳|Kênh Trung Quốc" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg", HKS
 http://103.130.141.67:81/live/60/playlist.m3u8
-#EXTINF:-1 tvg-id="hks" group-title="P82Media|🇨🇳|Kênh Trung Quốc" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-wall-elite-cn.png", Great Wall Elite
+#EXTINF:-1  group-title="P82Media|🇨🇳|Kênh Trung Quốc" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-wall-elite-cn.png", Great Wall Elite
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetworktaiwan" group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png", CARTOON NETWORK TAIWAN
@@ -1981,10 +2019,6 @@ https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
 #EXTINF:-1 group-title="P82Media|📻|Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/251.png", Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
-#EXTINF:-1 group-title="P82Media|📻|Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/252.png", The One Radio
-https://vnno-pt-6-tf-playlist-live-zmp3.zadn.vn/C0ti9DKXaS4/zhls/live/standard-audio/5c0872cf4e8aa7d4fe9b/standard-audio.m3u8
-#EXTINF:-1 group-title="P82Media|📻|Radio" tvg-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2022/4/1/1029812/Anh-Chup-Man-Hinh-20.jpg", ON365 FM
-http://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8
 
 #EXTINF:-1 group-title="P82Media|📻|Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", Bà Rịa Vũng Tàu
 http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
