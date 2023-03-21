@@ -114,6 +114,13 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4PrWoTuIHEg7gKtZ7XdF3A", "kid":"3UPJaQewRDuGEP52SQYVyQ" } ], "type":"temporary" }
 http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
+#EXTINF:-1 group-title="P82Media|🇻🇳|K+ VTVCabON" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+http://103.179.188.40/onplus/segment/K_CINE_6962/m20_index.m3u8
+#EXTINF:-1 group-title="P82Media|🇻🇳|K+ VTVCabON" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+http://103.179.188.40/onplus/segment/K_LIFE_6962/m20_index.m3u8
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XREBzs6nAVXnRd8Dbpaa/g","kid":"WNINPKAA8+3TKv/mVKYfMA"},{"kty":"oct","k":"QbjiCMbVuONs8mnNFC8upw","kid":"oBYNPKAA8+3TKv/mVKYfMA"},{"kty":"oct","k":"RA0IA5yj2Lxw/NEYUgqKiQ","kid":"rRpRbaAA8+3TKv/mVKYfMA"},{"kty":"oct","k":"GGJE918e6CuIvxAOvV0rNw","kid":"mSdRhe8A8+3TKv/mVKYfMA"}],"type":"temporary"}
