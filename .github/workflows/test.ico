@@ -624,9 +624,11 @@ http://162.212.178.70:41042/bysid/802
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://imgx.fubo.tv/station_logos/peopletv_c.png",People TV
 https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
+#EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/200px-Press_Tv_logo.svg.png",PRESS TV
+http://162.212.178.70:4842/bysid/1531
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png", Phoenix Infonews
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.usagm.gov/wp-content/uploads/2022/01/RFA-logo-RGB-1.png",Radio Free Asia
 https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 http://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
@@ -685,11 +687,11 @@ http://2.cvmtv.site/DAZN1
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/320px-DAZN_2.svg.png",DAZN 2
 http://2.cvmtv.site/DAZN1
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
-http://2.cvmtv.site/Diema1
+http://0.vylc.name.vn/Diema1
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
-http://2.cvmtv.site/Diema2
+http://0.vylc.name.vn/Diema2
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
-http://2.cvmtv.site/Diema3
+http://0.vylc.name.vn/Diema3
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_1.png",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png",Dubai Sports 2
@@ -714,17 +716,17 @@ https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://fightsports.tv/wp-content/uploads/fightsports140-logo-rr-2.png", FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-http://2.cvmtv.site/FS1
+http://0.vylc.name.vn/FS1
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
-http://2.cvmtv.site/FS2
+http://0.vylc.name.vn/FS2
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch
-http://2.cvmtv.site/matchtv
+http://0.vylc.name.vn/matchtv
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
-http://2.cvmtv.site/futbol1
+http://0.vylc.name.vn/futbol1
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="MatchFutbol2.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Маtch Futbol 2
-http://2.cvmtv.site/futbol2
+http://0.vylc.name.vn/futbol2
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="MatchFutbol3.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
-http://2.cvmtv.site/futbol3
+http://0.vylc.name.vn/futbol3
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",МUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561591625_oman-tv-sport-.jpg",Oman Sports
@@ -734,9 +736,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://i.playboard.app/p/AATXAJx_-CQnivR9co9GGc1T-9pD_rgU4MnWQ5JEDAty/default.jpg", Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPO TV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+http://0.vylc.name.vn/spotv
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png", SPO TV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+http://0.vylc.name.vn/spotv2
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Sports_TV_Plus_Network.png", SPORTS TV PLUS
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png", SPORTV
@@ -762,7 +764,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport_r1.png", TRACE SPORT STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg", TVP SPORT
-http://2.cvmtv.site:8080/stream/channelid/1560768115
+http://0.vylc.name.vn:8080/stream/channelid/1560768115
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/YasTV-2.png", YAS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
@@ -810,13 +812,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celest
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="P82Media|🎬|Giải trí" tvg-logo="https://i.postimg.cc/8zhftPQp/ccm.png",CELESTIAL CLASSIC MOVIES
 https://anv-livechannel-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#EXTINF:-1 tvg-id="dmaxhd" group-title="P82Media|🎬|Giải trí" tvg-logo="https://img.hplus.com.vn/460x260/poster/2021/09/30/322227-DMAX-NEW2.png", DMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://longpt.net/clearkey/results.php?keyid=53b26f904ae03a20b56477cfb9c5dca2&key=0c64ccfb978e7390bd33344075492aec
-https://longpt.net/vieon/dmax.mpd|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/
 #EXTINF:-1 tvg-id="blueantent" group-title="P82Media|🎬|Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/Rock_Entertainment_logo.png/revision/latest/scale-to-width-down/180?cb=20220324135754&path-prefix=vi", Rock Entertainment
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
@@ -933,6 +928,8 @@ http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/304px-J_Sports_Logo.svg.png" group-title="P82Media|🇯🇵|Kênh Nhật Bản",J Sports 2
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/304px-J_Sports_Logo.svg.png" group-title="P82Media|🇯🇵|Kênh Nhật Bản",J Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/800px-Fuji_TV_logo.svg.png" group-title="P82Media|🇯🇵|Kênh Nhật Bản",Kirin
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/200px-Mainichi_Broadcasting_System_logo.svg.png" group-title="P82Media|🇯🇵|Kênh Nhật Bản",MBS
@@ -998,8 +995,10 @@ http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="cctv17" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/CCTV-17_HD.png/revision/latest/scale-to-width-down/180?cb=20220823122248&path-prefix=vi", CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/CCTV-4K.png/revision/latest/scale-to-width-down/180?cb=20220508121854&path-prefix=vi", CCTV 4K
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443769612_-1188450915/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8?icpid=3&RTS=1674369674&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec27_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="cctv4k" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/CCTV-4K.png/revision/latest/scale-to-width-down/180?cb=20220508121854&path-prefix=vi", CCTV 4K 2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/CCTV-8K.png/revision/latest/scale-to-width-down/180?cb=20220508121910&path-prefix=vi", CCTV 8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw2045655319_-2135022099/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1674373571&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83_logo.png/revision/latest/scale-to-width-down/180?cb=20220705123927&path-prefix=vi", CCTV Billiards
@@ -1157,8 +1156,8 @@ http://103.130.141.67:81/live/35/playlist.m3u8
 http://103.130.141.67:81/live/54/playlist.m3u8
 #EXTINF:-1 tvg-id="xiamenshan3xi" group-title="P82Media|🇨🇳|Địa phương" tvg-logo="https://www.tvchinese.net/uploads/tv/xiamentv.jpg", Hạ Môn
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-#EXTINF:-1 tvg-id="phoenixinfonews" group-title="P82Media|🇨🇳|Kênh Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png", Phoenix Info News
-http://103.130.141.67:81/live/55/playlist.m3u8
+#EXTINF:-1 tvg-id="phoenixchinese" group-title="P82Media|🇨🇳|Kênh Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5f/Phoenix_Chinese_Channel_HD.png/revision/latest/scale-to-width-down/180?cb=20221122014355&path-prefix=vi", Phoenix Chinese
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="P82Media|🇨🇳|Kênh Trung Quốc" tvg-logo="http://www.tvquanqiu.com/uploads/bltv.jpg", BLTV 人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 #EXTINF:-1 tvg-id="hks" group-title="P82Media|🇨🇳|Kênh Trung Quốc" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg", HKS
@@ -1229,8 +1228,8 @@ http://223.17.122.230:9981/stream/channelid/121939931
 http://223.17.122.230:9981/stream/channelid/1238433746
 #EXTINF:-1 group-title="P82Media|🇭🇰|Kênh Hồng Kông", CH 78
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Mediacorp_Channel_52008.png" group-title="P82Media|🇸🇬|Kênh Singapore",CHANNEL 5
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1756,22 +1755,6 @@ http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:-1 group-title="P82Media|🇷🇺|Kênh Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/220px-TV-3_logo_%282015%29.png",TV3
 http://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="P82Media|🇻🇳|K+ VieOn" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 group-title="P82Media|🇻🇳|K+ VieOn" tvg-id="kslifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 group-title="P82Media|🇻🇳|K+ VieOn" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 group-title="P82Media|🇻🇳|K+ VieOn" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 group-title="P82Media|🇻🇳|K+ VieOn" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="klive1" group-title="P82Media|🇻🇳|K+" tvg-logo="", K+LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1798,36 +1781,6 @@ https://sglivevng.kplus.vn/bpk-tv/prod_klive4/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://longpt.net/clearkey/results.php?keyid=cc51bb623e2243aeb1647f7b48b85fdd&key=42c25f00230fb0eddf63d4d583f9839a
 https://sglivevng.kplus.vn/bpk-tv/prod_klive5/default/i.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="P82Media|K+ TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ODBz43/EUMEzPOZs7n/w2Q", "kid":"HDS+jXLrRaCeuZ7lMhKgpQ" } ], "type":"temporary" }
-https://proplus.ddns.my.id/get/vietteltv/kcinehd/master.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="P82Media|K+ TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GWBNrB8Ihd0yF+1e+8CEHg", "kid":"ay7QdPO3TKyfHsXPEkCM5g" } ], "type":"temporary" }
-https://proplus.ddns.my.id/get/vietteltv/klifehd/master.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|K+ TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pclUi3f54uw2ZTDSnKPUpQ", "kid":"k6OZF7JWQzyXP+0mWtiZNA" } ], "type":"temporary" }
-https://proplus.ddns.my.id/get/vietteltv/ksport1hd/master.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="P82Media|K+ TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1eOgJnadLS0fBahTsEHY6w", "kid":"ffLQfE4cT+uVEbu9AOMpEw" } ], "type":"temporary" }
-https://proplus.ddns.my.id/get/vietteltv/ksport2hd/master.mpd
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="P82Media|K+ ClipTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/2yMR48.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="P82Media|K+ ClipTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/2y3T48.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|K+ ClipTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/2y9T48.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="P82Media|K+ ClipTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/2y7T48.m3u8
-
 #EXTINF:-1 group-title="P82Media|🇻🇳|K+ VTVCabON" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vn.sugustv.tk/play/vtvcab/kplus-1-hd/SugusTV/master.m3u8
@@ -1843,27 +1796,6 @@ https://vn.sugustv.tk/play/vtvcab/kplus-pc-hd/SugusTV/master.m3u8
 #EXTINF:-1 group-title="P82Media|🇻🇳|K+ VTVCabON" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi", K+KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 #http://liveonzen.gviet.vn/manifest/k-plus-kids/master.mpd
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="P82Media|🇻🇳|K+ FPT" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ruMWOyx/PfhQhm2FvwDtog","kid":"7B+wGId+P9yUZumH/dUmbA"}],"type":"temporary"}
-http://vietanhtv.pw/fptplay/cine/manifest.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="P82Media|🇻🇳|K+ FPT" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi", K+LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BJIYhJAoimmNunRaiapqmg","kid":"qRlrCQ/vPd6pVYwsI9Omug"}],"type":"temporary"}
-http://vietanhtv.pw/fptplay/life/manifest.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+ FPT" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi", K+SPORT1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eDSeLYFxOYbRaCxFtin8vA","kid":"qDBayQtTO2a8zUKGnx/IwA"}],"type":"temporary"}
-http://vietanhtv.pw/fptplay/sp1/manifest.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="P82Media|🇻🇳|K+ FPT" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi", K+SPORT2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aqypIsSv6ssix+FZEBj8OQ","kid":"CpN88wglM92VoS0t7ki+aA"}],"type":"temporary"}
-http://vietanhtv.pw/fptplay/sp2/manifest.mpd
-#EXTINF:-1 group-title="P82Media|🇻🇳|K+ FPT" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi", K+KIDS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KuNYGeVwlcxZSs5prgyicw","kid":"d+PBrH5qPGmIVnKybFQTeQ"}],"type":"temporary"}
-http://vietanhtv.pw/fptplay/kids/manifest.mpd
 
 #EXTINF:-1 group-title="P82Media|🔴|Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=P82Media
