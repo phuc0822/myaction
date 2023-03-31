@@ -41,7 +41,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/200?cb=20220311023726&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/THETHAO_HD_kitlkgmndj/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}, ON SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
+http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/logoONMovieschuan-011.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8, ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/playlist.m3u8
@@ -50,7 +50,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/p
 https://code.vthanhtivi.pw/getlink/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/On_Sports%2B_logo_08-12-2022.png/revision/latest/scale-to-width-down/200?cb=20221208142717&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/HAY_TV_kitlkgmndj/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}, ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
+http://103.179.188.40/onplus/segment/HAY_TV/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/on-o2301222.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/dvr-${start}-${offset}.m3u8", ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/playlist.m3u8
@@ -71,13 +71,13 @@ https://code.vthanhtivi.pw/getlink/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/p
 https://code.vthanhtivi.pw/getlink/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://hotro.kplus.vn/media/article/JunvNcoX2nm363mQqeK9ILkFHXWM8Jks.png" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/BONGDA_HD_kitlkgmndj/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}", ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
+http://103.179.188.40/onplus/segment/BONGDA_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/34/Yeah1TV.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/dvr-${start}-${offset}.m3u8", VTVCab17 - Yeah1TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/180?cb=20220403050655&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/THETHAO_TINTUC_HD_kitlkgmndj/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}", ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
+http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/4806.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab 19 - Vie Dramas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
@@ -92,10 +92,10 @@ https://code.vthanhtivi.pw/getlink/vieon2/005a05b2-14d6-4b94-9318-9e3bb78f6311/p
 https://code.vthanhtivi.pw/getlink/vieon2/d65f1df2-54fd-46d8-a958-ae9d6ec2b868/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/ON_Golf_logo_2022.png/revision/latest/scale-to-width-down/200?cb=20230118075014&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/THETHAO_GOLF_HD_kitlkgmndj/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}", ON GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-http://code.vthanhtivi.pw/getlink/onplus/THETHAO_GOLF_HD/m401_index.m3u8
+http://103.179.188.40/onplus/segment/THETHAO_GOLF_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg", ON SPORTS ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
+http://103.179.188.40/onplus/segment/BTV5/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi", K+CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -707,6 +707,12 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-041/stream.mpd
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png",BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",BT SPORT 1
+http://163.172.221.223:90/bt1/index.m3u8
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT SPORT 2
+http://163.172.221.223:90/bt2/index.m3u8 
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",BT SPORT 3
+http://163.172.221.223:90/bt3/index.m3u8 
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a4/Canal%2B_Sport_5_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20220404124533",CANAL+ SPORT 5
 http://2.cvmtv.site:8080/stream/channelid/1048689498
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/320px-DAZN_1_Logo.svg.png",DAZN 1 ALE
