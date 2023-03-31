@@ -982,7 +982,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="cctv4" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/CCTV4_HD.png/revision/latest/scale-to-width-down/180?cb=20220206011843&path-prefix=vi", CCTV4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 #EXTINF:-1 tvg-id="cctv4" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/CCTV4_America_logo_2019.png/revision/latest/scale-to-width-down/190?cb=20220320003110&path-prefix=vi", CCTV4 Europe
-http://185.236.229.31:9981/playlist.m3u8
+http://185.236.229.31:9981/play/a05y
 #EXTINF:-1 tvg-id="cctv5" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/180?cb=20220319061806&path-prefix=vi", CCTV5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/CCTV5%2B_HD.png/revision/latest/scale-to-width-down/180?cb=20220226104639&path-prefix=vi", CCTV5+
@@ -1743,5 +1743,6 @@ https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="P82Media|🔴|Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-http://live.tvfix.org/hls/channelv.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-019/stream.mpd
