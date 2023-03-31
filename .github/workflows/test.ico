@@ -697,10 +697,34 @@ https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a4/Canal%2B_Sport_5_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20220404124533",CANAL+ SPORT 5
 http://2.cvmtv.site:8080/stream/channelid/1048689498
-#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/320px-DAZN_1_Logo.svg.png",DAZN 1
-http://2.cvmtv.site/DAZN1
-#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/320px-DAZN_2.svg.png",DAZN 2
-http://2.cvmtv.site/DAZN2
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/320px-DAZN_1_Logo.svg.png",DAZN 1 ALE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/320px-DAZN_2.svg.png",DAZN 2 ALE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/320px-DAZN_1_Logo.svg.png",DAZN 1 IT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-019/stream.mpd
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/320px-DAZN_2.svg.png",DAZN 2 IT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-020/stream.mpd
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/320px-DAZN_1_Logo.svg.png",DAZN 1 ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/320px-DAZN_2.svg.png",DAZN 2 ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/320px-DAZN_LaLiga_logo.svg.png",DAZN LA Liga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
 http://0.vylc.name.vn/Diema1
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
@@ -1741,8 +1765,3 @@ https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 group-title="P82Media|🔴|Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", WBC 02
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="P82Media|🔴|Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-019/stream.mpd
