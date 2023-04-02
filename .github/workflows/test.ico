@@ -488,12 +488,16 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo.png", YTV - Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="P82Media|🎞|HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
-#EXTVLCOPT:http-user-agent=P82Media
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="P82Media|🎞|HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
-#EXTVLCOPT:http-user-agent=P82Media
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="P82Media|🎞|HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="P82Media|🎞|HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxhits" group-title="P82Media|📦|In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/71/Box_Hits_screenbug_logo.png/revision/latest/scale-to-width-down/200?cb=20220224020132&path-prefix=vi", BOX HITS
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
@@ -852,10 +856,6 @@ https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="P82Media|🌿|Khám phá" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/e1f4e1d1-36bf-4c7e-85f3-f80453a61a44/9.png?format=300w" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="P82Media|🌿|Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/History_2015.png/revision/latest/scale-to-width-down/180?cb=20220208080040&path-prefix=vi", History
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
-https://sglivevega.kplus.vn/bpk-tv/prod_history/default/i.mpd
 #EXTINF:-1 group-title="P82Media|🌿|Khám phá" tvg-logo="https://www.cableman.ru/sites/default/files/love_nature_0.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="P82Media|🌿|Khám phá" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png?w=109&h=32", National Geographic
@@ -880,12 +880,10 @@ http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="P82Media|🎬|Giải trí",K+
 http://210.210.155.35/session/9c2503ec-b2c5-11ed-8b6a-b82a72d63267/uq2663/h/h08/index.m3u8
 http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="blueantext" group-title="P82Media|🎬|Giải trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png", Rock Action
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-id="blueantent" group-title="P82Media|🎬|Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/Rock_Entertainment_logo.png/revision/latest/scale-to-width-down/180?cb=20220324135754&path-prefix=vi", Rock Entertainment
-#EXTVLCOPT:http-user-agent=P82Media
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="blueantext" group-title="P82Media|🎬|Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/Rock_Extreme_logo.png/revision/latest/scale-to-width-down/180?cb=20220324135805&path-prefix=vi", Rock Extreme
-#EXTVLCOPT:http-user-agent=P82Media
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+http://210.210.155.37/dr9445/h/h16/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Db5RLLg/hjtr.png" group-title="P82Media|🎬|Giải trí",Sony ONE
