@@ -168,7 +168,6 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/HTV2_logo_2022.png/revision/latest/scale-to-width-down/220?cb=20220804114656&path-prefix=vi" catchup="append" catchup-days="6" catchup-source="https://code.vthanhtivi.pw/xemlai/hplus/htv2-hd-2669/dvr-${start}-${offset}.m3u8",HTV2 - Vie Channel
 #EXTVLCOPT:http-user-agent=P82Media
-#https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/HTV3_2018-nay.png/revision/latest/scale-to-width-down/220?cb=20211211024015&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV3
 #EXTVLCOPT:http-user-agent=P82Media
@@ -485,6 +484,10 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo.png",YTV - Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/ABC_HD_Australia_logo.png/180px-ABC_HD_Australia_logo.png", ABC Australia
+https://vtsstr3.tv24.vn/elive1/smil:ABCAustralia_SD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://flussonic.com/img/clients/clients/Al_Jazeera.png", Aljazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210825085349",ANIMAL PLANET
 https://vtsstr3.tv24.vn/elive/smil:AnimalPlanet_SD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-1 tvg-id="aniplus" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png",ANIPLUS
@@ -503,10 +506,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/axn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC WORLD NEWS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"H11MlnMfTSzQ+KC6Wz+REg","kid":"unYNtCjUSLiAVnlipi+5zw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://sglive.akamaized.net/msky-live/live_kplus/bbcworldnews.smil/manifest.mpd
+https://vtsstr3.tv24.vn/elive1/smil:BBCNews_SD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-1 tvg-id="bloomberg" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/300px-Bloomberg_logo.svg.png",Bloomberg UHD
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/160px-Boomerang_2014_logo.svg.png",BOOMERANG
@@ -522,10 +522,7 @@ https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2b/Box_Movie_1_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20221111022617&path-prefix=vi",BOX MOVIE 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O5pEDHf51oJ1s8vdWb5I2A","kid":"hf/AJx8OTvCNyjl4Q8zp9g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://sglive.akamaized.net/msky-live/live_kplus/cn.smil/manifest.mpd
+https://vtsstr3.tv24.vn/elive/smil:CartoonNW_SD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/180?cb=20220205114518&path-prefix=vi",CGTN
 http://103.130.141.67:81/live/3/playlist.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
@@ -539,15 +536,9 @@ http://91.224.190.66:4245/bysid/50290
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 #EXTINF:-1 tvg-id="discoveryhd" group-title="P82Media|🌿|Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/Discovery_Channel_2019_symbol.png/revision/latest/scale-to-width-down/176?cb=20221112073146&path-prefix=vi",Discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"P8MEAlztUq2D/JQ9e4Xl0g","kid":"ap5sQvrdTQaH1hn6xEZZww"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://sglive.akamaized.net/msky-live/live_kplus/dsc.smil/manifest.mpd
+https://vtsstr3.tv24.vn/elive/smil:Discovery_SD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="P82Media|🌿|Khám phá" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/e1f4e1d1-36bf-4c7e-85f3-f80453a61a44/9.png?format=300w", Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kGpjYz8qpyVR0fg7A/FWTA","kid":"fqlsWHRNQC2iIcbRyLfTWw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://sglive.akamaized.net/msky-live/live_kplus/dscasia.smil/manifest.mpd
+https://vtsstr3.tv24.vn/elive1/smil:DiscoveryAsia_HD.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-1 tvg-id="drfithd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/c9367c76-eb3e-43b9-8e62-458a89e877a7/scale-to-width/755",Dr.Fit
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -567,11 +558,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http:/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="hits" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png", HISTORY
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FhP2tARlu+kXQPeFcax5+g","kid":"Z2Xqe3zFTByGVR1rNECzmw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://sglive.akamaized.net/bpk-tv/prod_kixhd/default/index.mpd
+https://sglive.akamaized.net/bpk-tv/prod_history/default/index.mpd
 #EXTINF:-1 tvg-id="hits" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png", HITS
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 tvg-id="hitsmovies" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png", HITS MOVIES
@@ -619,6 +610,10 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_World.svg/revision/latest/scale-to-width-down/183?cb=20211029170850", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/TV-Monde-Updated-Logo-2021.png", TV5Monde Asie
+https://vtsstr3.tv24.vn/elive/smil:TV5_SD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&
+#EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg/revision/latest/scale-to-width-down/250?cb=20191207000751", TV5Monde Style
+http://210.210.155.35/session/f6aee950-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h121/index.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395.png",tvN
 http://210.210.155.35/session/49742232-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h20/index.m3u8
 http://210.210.155.35/dr9445/h/h20/index.m3u8
@@ -652,11 +647,6 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/BBC_Lifestyle_logo.png/revision/latest/scale-to-width-down/180?cb=20220208080003&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 #EXTVLCOPT:http-user-agent=P82Media
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://flussonic.com/img/clients/clients/Al_Jazeera.png", Aljazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/ABC_HD_Australia_logo.png/180px-ABC_HD_Australia_logo.png", ABC Australia
-#EXTVLCOPT:http-user-agent=P82Media
-https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/300?cb=20170410181255", ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png", BFM TV
@@ -713,11 +703,6 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 https://lbs-us1.suprememastertv.com/1080p.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png", TDM Macau
 https://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1765131561.m3u8
-#EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/TV-Monde-Updated-Logo-2021.png", TV5Monde Asie
-#EXTVLCOPT:http-user-agent=P82Media
-https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg/revision/latest/scale-to-width-down/250?cb=20191207000751", TV5Monde Style
-http://210.210.155.35/session/f6aee950-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h121/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/FreeDom_UATV_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220916092514", UATV
 http://210.210.155.37/session/0214795c-b2c7-11ed-8b6a-b82a72d63267/uq2663/h/h101/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/320px-VOA_logo.svg.png", VOA - Voice of America
