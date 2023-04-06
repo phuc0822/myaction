@@ -587,7 +587,9 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A1Yd0WD1UuyFKmQpjXzqEw","kid":"HTlRbh5oRoq5kWrYVm0xiw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/bpk-tv/prod_kixhd/default/index.mpd
-#EXTINF:-1 group-title="P82Media|🎬|Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Luxe.TV.jpg/revision/latest?cb=20211019104227&path-prefix=vi",Luxe TV
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.cableman.ru/sites/default/files/love_nature_0.png", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Luxe.TV.jpg/revision/latest?cb=20211019104227&path-prefix=vi",LUXE TV
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist1080_p.m3u8
 #EXTINF:-1 tvg-id="man" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest?cb=20211017093944&path-prefix=vi",MAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -595,6 +597,8 @@ https://alchimie-luxe-uk-rakuten.amagi.tv/playlist1080_p.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Mezzo_Live_%282023%29.svg/320px-Logo_Mezzo_Live_%282023%29.svg.png",Mezzo Live
 http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+#EXTINF:-1  group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Mta_1_int.png/180px-Mta_1_int.png", MTA1 WORLD
+http://91.224.190.66:4257/bysid/53151
 #EXTINF:-1 tvg-id="musicbox" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest?cb=20211017093409&path-prefix=vi",MUSIC BOX
 https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/320px-NHK_World-Japan_TV.svg.png",NHK World
@@ -603,7 +607,7 @@ https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_4M.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/320px-NHK_logo_2020.svg.png",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 http://123.51.230.108:18525/playlist.m3u8
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png",Outdoor
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185",Outdoor
 https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png", Phoenix Infonews
 http://123.51.230.108:18580/playlist.m3u8
@@ -699,8 +703,6 @@ http://185.236.229.31:9981/play/a05n
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1  group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/200px-Logo_M6_%282020%2C_fond_clair%29.svg.png", M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
-#EXTINF:-1  group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Mta_1_int.png/180px-Mta_1_int.png", MTA1 WORLD
-http://91.224.190.66:4257/bysid/53151
 #EXTINF:-1  group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/110px-NASA_logo.svg.png", NASA
 http://185.236.229.31:9981/play/a05q
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -885,8 +887,6 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="P82Media|🌿|Khám phá" tvg-logo="http://bbcearth.ca/wp-content/uploads/2018/10/BBC_EARTH_NP_WHT_L.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="P82Media|🌿|Khám phá" tvg-logo="https://www.cableman.ru/sites/default/files/love_nature_0.png", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="P82Media|🌿|Khám phá" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png?w=109&h=32", National Geographic
 #EXTVLCOPT:http-user-agent=P82Media
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
