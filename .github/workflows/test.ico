@@ -123,27 +123,27 @@ http://103.179.188.40/onplus/segment/K_LIFE_6962/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/190?cb=20220127020318&path-prefix=vi",K+CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sRy1PhAwlnOQ7iP+lNukdA","kid":"+S3Li3EerpUz+JC3L4U11g"},{"kty":"oct","k":"bwvKD7ZgZy5w0zGN09A4sQ","kid":"QXHLi3EerpUz+JC3L4U11g"},{"kty":"oct","k":"pqDzT3R8V+60YnjfmAqe8Q","kid":"TnUPvHEerpUz+JC3L4U11g"},{"kty":"oct","k":"VOQl4T7w1mD/plMTnC/DTA","kid":"OoIP1MAerpUz+JC3L4U11g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l0b1d9HmcX9XKtAVudNCzA","kid":"DOlNfKTUz0VdGxqcYLwjjA"},{"kty":"oct","k":"ouUUk1UCIHRk3MyF29qwSA","kid":"VC1NfKTUz0VdGxqcYLwjjA"},{"kty":"oct","k":"B9jR7Q9sBSRWADPELgMo2A","kid":"YTGRraTUz0VdGxqcYLwjjA"},{"kty":"oct","k":"dGQ2YgXidhbYF3yWpmTaYQ","kid":"TT6RxfPUz0VdGxqcYLwjjA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uuxka6BETIRnuZ7f2xEm4Q","kid":"0y2qTOn1UeyuvdgtW7T//A"},{"kty":"oct","k":"cDpHI4DdZUJj7P3maUHvRg","kid":"G3GqTOn1UeyuvdgtW7T//A"},{"kty":"oct","k":"R2lhHJnWwzqPWdPvfBG51A","kid":"KHXufen1UeyuvdgtW7T//A"},{"kty":"oct","k":"v/GoZ7DWK7X6Jim1C82irQ","kid":"FILulTj1UeyuvdgtW7T//A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gzQQs0Xvj/m/kMDl7BCpLw","kid":"n9h2+vfq8I6ohr7Bz7lh4Q"},{"kty":"oct","k":"wl6fwYHgYvf3WhycZGbWJA","kid":"5xx2+vfq8I6ohr7Bz7lh4Q"},{"kty":"oct","k":"6d+5xoWZdGJeyS4AXe6ffg","kid":"9CC6K/fq8I6ohr7Bz7lh4Q"},{"kty":"oct","k":"aDJFKQtiXuKjN25C96Zc1w","kid":"4C26Q0bq8I6ohr7Bz7lh4Q"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FHzl9PDu5Ox6aw+tTwq5aA","kid":"afHLEyIgqP/a/U+QUHDe4w"},{"kty":"oct","k":"1bymmG4iORa8ldNItdxueQ","kid":"sTXLEyIgqP/a/U+QUHDe4w"},{"kty":"oct","k":"7kFvzn2yT6P/vR09T063Jw","kid":"vjkPRCIgqP/a/U+QUHDe4w"},{"kty":"oct","k":"kqbDSGSMj5nBxZyOSS7uYw","kid":"qkYPXHEgqP/a/U+QUHDe4w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bEaefkxAzT6NUAiso8nrgA","kid":"at2hdK1uStcMNUWuwzvkgg"},{"kty":"oct","k":"IL67Ck4IMFdT1ihUGPNCSw","kid":"siGhdK1uStcMNUWuwzvkgg"},{"kty":"oct","k":"aVMmfT1exbFn4uPDu464Lg","kid":"vyXlpa1uStcMNUWuwzvkgg"},{"kty":"oct","k":"ZZ3ZAVglYWW10X19YB2EGg","kid":"qzLlvfxuStcMNUWuwzvkgg"}], "type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xKzj7uL6RFt+1RRWJQNklA","kid":"3wpUgQPqGRnkDnoyastNFw"},{"kty":"oct","k":"W0Hp+nRQc83SDUwyKpeowg","kid":"J05UgQPqGRnkDnoyastNFw"},{"kty":"oct","k":"5SX9qpi+mS45lgySK4BtBg","kid":"NFKYsgPqGRnkDnoyastNFw"},{"kty":"oct","k":"ESL2000fKIFE11IQR1KIow","kid":"IF+YylLqGRnkDnoyastNFw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a1qWnrPLBvF6DQQksRc0AA","kid":"NE0vH4Dey9zwtYo+l49etw"},{"kty":"oct","k":"WcalVZ/i4ZFSzRChXQ3ICw","kid":"fJEvH4Dey9zwtYo+l49etw"},{"kty":"oct","k":"DMhqx4S5baE3wHtLiXGgSA","kid":"iZVzUIDey9zwtYo+l49etw"},{"kty":"oct","k":"LqdZHbVhOGVdQsIastJpcg","kid":"daJzaM/ey9zwtYo+l49etw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xAOZGDzdoOOYRqjAm8497A","kid":"h1kF9LLXJr6ttfPc6x67pg"},{"kty":"oct","k":"H6IoyQ5l7A9pOHQLKiNn5Q","kid":"z50F9LLXJr6ttfPc6x67pg"},{"kty":"oct","k":"2tNyCTiwA9NzRgOf1vNUWA","kid":"3KFJJbLXJr6ttfPc6x67pg"},{"kty":"oct","k":"Npm52Lg+zDfhifUkisHvBQ","kid":"yK5JPQHXJr6ttfPc6x67pg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lphS4PGG1qmekA+3Ku+qGw","kid":"9Ic0x74805Joygp4DadkSg"},{"kty":"oct","k":"+y4wjFFiMUm++tP+zNbsQw","kid":"PMs0x74805Joygp4DadkSg"},{"kty":"oct","k":"RA7FkefGIJZLgvWn7bIWZQ","kid":"Sc94+L4805Joygp4DadkSg"},{"kty":"oct","k":"g5N8Hz1W5id0QmFut6Z5Qg","kid":"Ndx4EA0805Joygp4DadkSg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
@@ -509,6 +509,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EkILsdcGRZzPq3gQpaYR8A","kid":"YXrsxNQ3MuSpkgVqpS0eow"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/axn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="babytvhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", BabyTV
+http://cdn-cf.vthanhtivi.pw/fptplay/babytv-hd/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="P82Media|👶|Thiếu nhi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Cbeebies.svg/revision/latest/scale-to-width-down/300?cb=20211011211035", BBC Cbeebies
 http://103.56.156.30:8081/udp/225.1.1.134:30120
 #EXTINF:-1 tvg-id="bbcearth" group-title="P82Media|🌿|Khám phá" tvg-logo="http://bbcearth.ca/wp-content/uploads/2018/10/BBC_EARTH_NP_WHT_L.png",BBC Earth
@@ -695,10 +697,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sc
 http://live.cooltv.top/tv/good.php?id=xingkong_1500
 #EXTINF:-1 tvg-id="zoomoo" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-_5jyWGNRYVCQB2j99YGLsBBLQljRgs80a2yFkhA=s900-c-k-c0x00ffffff-no-rj",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="babytvhd" group-title="P82Media|👶|Thiếu nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", BabyTV
-#EXTVLCOPT:http-user-agent=P82Media
-https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
