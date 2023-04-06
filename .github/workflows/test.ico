@@ -511,7 +511,7 @@ https://vtsstr3.tv24.vn/elive1/smil:BBCNews_SD.smil/chunklist.m3u8?uid=s2c526m57
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/160px-Boomerang_2014_logo.svg.png",BOOMERANG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1lf8J1VjMZteSxXSmEhaJg","kid":"q4Nk2JEQR7+3KozwmjB7SQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"N1muavQiisPtPMoXFiIGhw","kid":"cTl0GBP/MtyXw6R8ZcP39w"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/boomerang.smil/manifest.mpd
 #EXTINF:-1 tvg-id="inthebox" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBoxChannel_150x901j1.jpg", BOX
@@ -535,9 +535,9 @@ http://91.224.190.66:4245/bysid/50290
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
-#EXTINF:-1 tvg-id="discoveryhd" group-title="P82Media|🌿|Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/Discovery_Channel_2019_symbol.png/revision/latest/scale-to-width-down/176?cb=20221112073146&path-prefix=vi",Discovery
+#EXTINF:-1 tvg-id="discoveryhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/Discovery_Channel_2019_symbol.png/revision/latest/scale-to-width-down/176?cb=20221112073146&path-prefix=vi",Discovery
 https://vtsstr3.tv24.vn/elive/smil:Discovery_SD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="P82Media|🌿|Khám phá" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/e1f4e1d1-36bf-4c7e-85f3-f80453a61a44/9.png?format=300w", Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/e1f4e1d1-36bf-4c7e-85f3-f80453a61a44/9.png?format=300w",Discovery Asia
 https://vtsstr3.tv24.vn/elive1/smil:DiscoveryAsia_HD.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-1 tvg-id="drfithd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/c9367c76-eb3e-43b9-8e62-458a89e877a7/scale-to-width/755",Dr.Fit
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -545,6 +545,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="dw" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/DW_2012.svg/revision/latest/scale-to-width-down/200?cb=20220204075549&path-prefix=vi",DW
 http://185.236.229.31:9981/play/a068
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/Euronews_2016.png/revision/latest/scale-to-width-down/180?cb=20220222120346&path-prefix=vi", EURO NEWS
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fashion_tv_hd.png/400px-Fashion_tv_hd.png",FashionTV UHD
 http://185.236.229.31:9981/play/a07w
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -558,7 +560,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http:/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
-#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png", HISTORY
+#EXTINF:-1 tvg-id="historyhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FhP2tARlu+kXQPeFcax5+g","kid":"Z2Xqe3zFTByGVR1rNECzmw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
@@ -620,6 +622,8 @@ http://210.210.155.35/dr9445/h/h20/index.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png",tvN MOVIES
 http://210.210.155.35/session/598ab8d4-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h21/index.m3u8
 http://210.210.155.35/dr9445/h/h21/index.m3u8
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://lh3.googleusercontent.com/3EY0ovSEZCfmbSyu5CTOhpUmrAFeew6v54t6bqa9E56ws7UTrQKGxs-XIkxsKHyAobA", WION TV
+http://91.224.190.66:4243/bysid/52119
 #EXTINF:-1 tvg-id="woman" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/40/WOMAN_logo_3D.png/revision/latest/scale-to-width-down/190?cb=20220713121123&path-prefix=vi",WOMAN
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -664,8 +668,6 @@ http://185.236.229.31:9981/play/a061
 http://185.236.229.31:9981/play/a062
 #EXTINF:-1 tvg-id="dwplus" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/DW_2012.svg/revision/latest/scale-to-width-down/200?cb=20220204075549&path-prefix=vi", DW+
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/Euronews_2016.png/revision/latest/scale-to-width-down/180?cb=20220222120346&path-prefix=vi", EURO NEWS
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ewtn" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/05/EWTN_logo.svg/320px-EWTN_logo.svg.png", EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png", FOX NEWS NOW
@@ -710,8 +712,6 @@ https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/chunkli
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/320px-VOA_logo.svg.png", VOA Chinese
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/VOA-TVMC08_1080/chunklist.m3u8
-#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://lh3.googleusercontent.com/3EY0ovSEZCfmbSyu5CTOhpUmrAFeew6v54t6bqa9E56ws7UTrQKGxs-XIkxsKHyAobA", WION TV
-http://91.224.190.66:4243/bysid/52119
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Yahoo_Finance_Logo_2019.png", Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg/revision/latest/scale-to-width-down/220?cb=20150317085231", YEMEN
