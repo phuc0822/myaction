@@ -571,6 +571,8 @@ http://103.56.156.30:8081/udp/225.1.4.39:30120
 #EXTINF:-1 tvg-id="dw" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW
 http://185.236.229.31:9981/play/a068
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://img.catcast.tv/uploads/06032021/12364-6043aad3be311.png", Euro Dance 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/Euronews_2016.png/revision/latest/scale-to-width-down/180?cb=20220222120346&path-prefix=vi",EURO NEWS
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ewtn" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/05/EWTN_logo.svg/320px-EWTN_logo.svg.png",EWTN
@@ -698,8 +700,6 @@ http://live.cooltv.top/tv/good.php?id=xingkong_1500
 #EXTINF:-1 tvg-id="zoomoo" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-_5jyWGNRYVCQB2j99YGLsBBLQljRgs80a2yFkhA=s900-c-k-c0x00ffffff-no-rj",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png",BFM TV
-https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",CBN NEWS
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/301px-CNBC_logo.svg.png",CNBC
@@ -730,9 +730,6 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 https://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1765131561.m3u8
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/FreeDom_UATV_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220916092514",UATV
 http://210.210.155.37/session/0214795c-b2c7-11ed-8b6a-b82a72d63267/uq2663/h/h101/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/320px-VOA_logo.svg.png",VOA - Voice of America
-https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/chunklist.m3u8
-https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/320px-VOA_logo.svg.png",VOA Chinese
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/VOA-TVMC08_1080/chunklist.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Yahoo_Finance_Logo_2019.png",Yahoo Finance
@@ -851,41 +848,31 @@ http://189.81.142.134:4000/play/a06k
 http://189.81.142.134:4000/play/a06j
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS
 http://103.130.141.67:81/live/16/playlist.m3u8
-#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1, group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2561.png", TNT SPORTS 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1, group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-3-cl-2562.png", TNT SPORTS 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1, group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1, group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg", TVP SPORT
-http://0.vylc.name.vn:8080/stream/channelid/1560768115
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Db5RLLg/hjtr.png" group-title="P82Media|🎬|Giải trí",Sony ONE
 https://anv-livechannel-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:-1 group-title="P82Media|🎶|Âm nhạc" tvg-logo="https://img.catcast.tv/uploads/06032021/12364-6043aad3be311.png", Euro Dance 90
-https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="P82Media|🎶|Âm nhạc",SUN MUSIC
-http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 
-#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-sports-1-live.png", Abu Dhabi Sports 1
+#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-sports-1-live.png",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png", Abu Dhabi Sports 2
+#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-sports-3-live.png", Abu Dhabi Sports 3
+#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-sports-3-live.png",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/fullhd_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png",Al Saudiya
+http://185.236.229.31:9981/play/a01a
 #EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_1.png",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/YasTV-2.png", YAS
+#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/220px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png",Saudi Quran
+http://185.236.229.31:9981/play/a018
+#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",Saudi Sunnah
+http://185.236.229.31:9981/play/a017
+#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/YasTV-2.png",YAS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/220px-LogoCanal26.png" group-title="P82Media|🇦🇷󠁧󠁢󠁥󠁮󠁧󠁿|Kênh Argentina",Canal 26
@@ -940,7 +927,9 @@ http://91.224.190.66:4275/bysid/52575
 
 #EXTINF:-1 group-title="P82Media|🇮🇳|Kênh Ấn Độ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png", Star Vijay
 http://23.237.10.66:16054
-#EXTINF:-1 group-title="P82Media|🇮🇳|Kênh Ấn Độ" tvg-logo="https://lh3.googleusercontent.com/3y_ebA2RVEDTFvQsldhPs3Nan3M4VO5W1RbGGciuQhcJZujD_vbUtsO07la3TTqZePA2=h475-rw", Vinmeen TV
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="P82Media|🇮🇳|Kênh Ấn Độ",SUN MUSIC
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 group-title="P82Media|🇮🇳|Kênh Ấn Độ" tvg-logo="https://lh3.googleusercontent.com/3y_ebA2RVEDTFvQsldhPs3Nan3M4VO5W1RbGGciuQhcJZujD_vbUtsO07la3TTqZePA2=h475-rw",Vinmeen TV
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 #EXTINF:-1 group-title="P82Media|🇮🇳|Kênh Ấn Độ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png",ZEE NEWS
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
@@ -949,6 +938,16 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 http://23.237.10.66:16124
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/T/telecine-pipoca-logo-6429775BEC-seeklogo.com.png" group-title="P82Media|🇧🇷|Kênh Brazil",TELECINE PIPOCA
 http://23.237.10.66:16195
+#EXTINF:-1 group-title="P82Media|🇧🇷|Kênh Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1, group-title="P82Media|🇧🇷|Kênh Brazil" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2561.png", TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1, group-title="P82Media|🇧🇷|Kênh Brazil" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-3-cl-2562.png", TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1, group-title="P82Media|🇧🇷|Kênh Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1, group-title="P82Media|🇧🇷|Kênh Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="P82Media|🇰🇭|Kênh Campuchia" tvg-logo="https://static.wikia.nocookie.net/closinglogogroup/images/c/cf/39295018_2249706341927284_99135047851835392_n.png",Apsara
 https://live.ams.com.kh/app/stream/playlist.m3u8
@@ -1033,22 +1032,22 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv063_mobile.png",KLT-JINGTIAN INTERNATIONAL
 http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2151539250-L.jpg", LTV THEATER
+#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2151539250-L.jpg",LTV THEATER
 http://123.51.230.108:8509/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png",MNEWS
 https://ytm2.yuanhsing.cf/mnews.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png", TVBS ASIA
+#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS ASIA
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://www.tvchinese.net/uploads/tv/setxinwen.jpg",SET NEWS+
 https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png", TVBS NEWS
+#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",TVBS NEWS
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3f/TTV_News_Channel_with_HD_2016.png/440px-TTV_News_Channel_with_HD_2016.png", TTV NEWS
+#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3f/TTV_News_Channel_with_HD_2016.png/440px-TTV_News_Channel_with_HD_2016.png",TTV NEWS
 https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZQJQW95.jpg", VL ENTERTAINMENT
+#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZQJQW95.jpg",VL ENTERTAINMENT
 http://123.51.230.108:18540/playlist.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://www.xhzb.tw/uploads/18/1-1PF50951294C.jpg", VL SPORTS
+#EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://www.xhzb.tw/uploads/18/1-1PF50951294C.jpg",VL SPORTS
 http://123.51.230.108:18509/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🇹🇼|Kênh Đài Loan" tvg-logo="https://p9-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/bbef20e50a4848dc8a41793bb0f7195b~tplv-mlhdmxsy5m-q75:0:0.image", 東風衛視
 http://123.51.230.108:18560/playlist.m3u8
@@ -1132,7 +1131,7 @@ http://210.210.155.35/session/7f566b0e-b2c8-11ed-b1c0-b82a72d63267/qwr9ew/s/s07/
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/BeritaSatuWorld.png" group-title="P82Media|🇮🇩|Kênh Indonesia",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 group-title="P82Media|🇮🇩|Kênh Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_cnbc_wide.png", CNBC Indonesia
+#EXTINF:-1 group-title="P82Media|🇮🇩|Kênh Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_cnbc_wide.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w848237755_b384000_sleng.m3u8
 #EXTINF:-1 group-title="P82Media|🇮🇩|Kênh Indonesia"t tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/240px-CNN_Indonesia.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1403042317_b384000_sleng.m3u8
@@ -1140,7 +1139,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1403042317_b384
 http://210.210.155.35/session/ea4b6422-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s13/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇮🇩|Kênh Indonesia" tvg-id="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png", Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 group-title="P82Media|🇮🇩|Kênh Indonesia" tvg-id="jaktv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest?cb=20180131051655", Jak TV
+#EXTINF:-1 group-title="P82Media|🇮🇩|Kênh Indonesia" tvg-id="jaktv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest?cb=20180131051655",Jak TV
 http://210.210.155.37/session/e80bdd8c-b2c8-11ed-b1c0-b82a72d63267/x6bnqe/s/s13/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇮🇩|Kênh Indonesia" tvg-id="kompastv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/320px-Kompas_TV_%282016%29_logo.svg.png", Kompas TV
 http://210.210.155.35:80/qwr9ew/s/s104/index.m3u8
@@ -1191,7 +1190,7 @@ http://23.237.10.66:16404
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=1
 #EXTINF:-1 group-title="P82Media|🇲🇾|Kênh Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
-#EXTINF:-1 group-title="P82Media|🇲🇾|Kênh Malaysia" tvg-logo="https://didik.tv/images/logotv2.png", DIDIK TV
+#EXTINF:-1 group-title="P82Media|🇲🇾|Kênh Malaysia" tvg-logo="https://didik.tv/images/logotv2.png",DIDIK TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
@@ -1205,13 +1204,12 @@ http://23.237.10.66:16406
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9
 https://aqfadtv.xyz/live/tv9/index.mpd
-#EXTINF:0 tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.alley.box/0b932016-a3d3-11e9-b2a3-7589435c044d/640" group-title="P82Media|🇲🇾|Kênh Malaysia", FLIX HD
+#EXTINF:0 tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.alley.box/0b932016-a3d3-11e9-b2a3-7589435c044d/640" group-title="P82Media|🇲🇾|Kênh Malaysia",FLIX HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🇲🇾|Kênh Malaysia" tvg-logo="https://iili.io/1NTfv2.png",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" group-title="P82Media|🇲🇾|Kênh Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-
 #EXTINF:-1 group-title="P82Media|🇲🇾|Kênh Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Astro_oasis_on-screen_bugs_logo_2.png/revision/latest/scale-to-width-down/185?cb=20190818050830",Astro Oasis
 http://23.237.10.66:16471
 #EXTINF:-1 group-title="P82Media|🇲🇾|Kênh Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",Unifi Sport 1
@@ -1235,12 +1233,14 @@ https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/USA_Today_%282020-01-29%29.svg/320px-USA_Today_%282020-01-29%29.svg.png" group-title="P82Media|🇺🇸󠁧󠁢󠁥󠁮󠁧󠁿|Kênh Mỹ",USA TODAY
 https://usatodaynews-stirr.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/ogmrnURRik6lzvDiKEtW3QbKpi9R5mOS82enqqS4NdpDv3EwI3JALRCjkr_q05SVXQg" group-title="P82Media|🇺🇸󠁧󠁢󠁥󠁮󠁧󠁿|Kênh Mỹ",VBS
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/61Yf29w5rxL.png" group-title="P82Media|🇺🇸󠁧󠁢󠁥󠁮󠁧󠁿|Kênh Mỹ",VBS
 https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/chunklist_b1228800.m3u8
 #EXTINF:-1 group-title="P82Media|🇺🇸󠁧󠁢󠁥󠁮󠁧󠁿|Kênh Mỹ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/1200px-VH1_logo.svg.png", VH-1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0 tvg-logo="https://ibctv.us/wp-content/uploads/2019/10/IBClogo-Copy-2-e1570636880828.png" group-title="P82Media|🇺🇸󠁧󠁢󠁥󠁮󠁧󠁿|Kênh Mỹ",Vietnam IBC
 https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1292135321.m3u8
+#EXTINF:-1 tvg-id="" group-title="P82Media|🇺🇸󠁧󠁢󠁥󠁮󠁧󠁿|Kênh Mỹ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/320px-VOA_logo.svg.png",VOA - Voice of America
+https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/chunklist.m3u8
 
 #EXTINF:-1 group-title="P82Media|🇲🇲|Kênh Myanmar" tvg-logo="https://2.bp.blogspot.com/-e06_K4LR-w0/WXD9Np-00UI/AAAAAAAAEG4/DHe0qj5VqXU0MyKgLRmyA3xeVcM4XguuwCLcBGAs/s1600/5_Plus.jpg", 5-PLUS
 http://183.89.246.119:8881/play/a07w
@@ -1288,9 +1288,11 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇲🇲|Kênh Myanmar" tvg-logo="https://tvtolive.com/wp-content/uploads/MVTV-Myanmar-tvtolive.com_.jpg", MWD VARIETY
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 group-title="P82Media|🇲🇲|Kênh Myanmar" tvg-logo="https://ytvmm.com/wp-content/uploads/YTV-Logo-New.png", Yangon TV
+#EXTINF:-1 group-title="P82Media|🇲🇲|Kênh Myanmar" tvg-logo="https://ytvmm.com/wp-content/uploads/YTV-Logo-New.png",Yangon TV
 http://183.89.246.119:8881/play/a081
 
+#EXTINF:-1 group-title="P82Media|🇷🇺|Kênh Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Current_Time_TV_logo.svg/220px-Current_Time_TV_logo.svg.png",CURRENT TIME
+http://185.236.229.31:9981/play/a06g
 #EXTINF:-1 group-title="P82Media|🇷🇺|Kênh Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png/320px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png",Moscow 24
 http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🇷🇺|Kênh Nga" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch
@@ -1347,6 +1349,12 @@ http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQxt7y4/TV-Tokyo-BEARTV.png" group-title="P82Media|🇯🇵|Kênh Nhật Bản",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo.png" group-title="P82Media|🇸🇲|Kênh San Marino",RTV
+http://185.236.229.31:9981/play/a06e
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo-sport-bn.png" group-title="P82Media|🇸🇲|Kênh San Marino",RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" } 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/220px-Mediacorp_Channel_5_2023.svg.png" group-title="P82Media|🇸🇬|Kênh Singapore",CHANNEL 5
@@ -1387,7 +1395,9 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 group-title="P82Media|🇸🇬|Kênh Singapore" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714423%27&EntityType=%27Item%27&EntityId=%2797078%27&Width=1000&Height=260",meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="P82Media|🇫🇷|Kênh Pháp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/640px-CGTN_-_fran%C3%A7ais.png",CGTN FRANCAIS
+#EXTINF:-1 group-title="P82Media|🇫🇷|Kênh Pháp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png",BFM TV
+https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-1/eu-central-1/876450610001/profile_0/f7b42d84e79a4fb5816c5274a232a999/chunklist_ssaiV.m3u8
+#EXTINF:-1 group-title="P82Media|🇫🇷|Kênh Pháp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/640px-CGTN_-_fran%C3%A7ais.png",CGTN FRANCAIS
 http://185.236.229.31:9981/play/a062
 #EXTINF:-1 group-title="P82Media|🇫🇷|Kênh Pháp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/44/Ultra_Nature_%282016%29.svg/langfr-200px-Ultra_Nature_%282016%29.svg.png", Ultra Nature 4K
 http://185.236.229.31:9981/play/a01d
@@ -1490,19 +1500,26 @@ https://cdn-live.dltv.ac.th/dltv15_1080p/index.m3u8
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1190209624.m3u8
 #EXTINF:-1 group-title="P82Media|🇹🇭|Kênh Thái Lan" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ETV
 http://150.95.66.20:1935/live/livestream/chunklist_w1130901455.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇭|Kênh Thái Lan" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/02/mvchannel-2020.png", MVTV
-https://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/chunklist.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇭|Kênh Thái Lan" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png", MVTV Series
-https://edge6a.v2h-cdn.com/mv_series/mv_series.stream/chunklist.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇭|Kênh Thái Lan" tvg-logo="https://www.lyngsat.com/logo/tv/mm/major-channel-mix-th.png", Mix Major Channel
-https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist.m3u8
-#EXTINF:-1 group-title="P82Media|🇹🇭|Kênh Thái Lan" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png", TVB THAI
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
 #EXTINF:-1 group-title="P82Media|🇹🇭|Kênh Thái Lan" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai-chaiyo-th.png",THAI CHAIYO
 http://183.89.246.119:8881/play/a0a4
 
-#EXTINF:-1 group-title="P82Media|🇹🇷|Kênh Thổ Nhĩ Kỳ" tvg-logo="https://seeklogo.com/images/T/TVE_La_2-logo-6F4245B905-seeklogo.com.jpg", LA 2
+#EXTINF:-1 group-title="P82Media|🇹🇷|Kênh Thổ Nhĩ Kỳ" tvg-logo="https://seeklogo.com/images/T/TVE_La_2-logo-6F4245B905-seeklogo.com.jpg",LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 group-title="P82Media|🇨🇭|Kênh Thuỵ Sĩ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/220px-RSI_La_2_2012.svg.png",RSI LA 1
+http://185.236.229.31:9981/play/a00m
+#EXTINF:-1 group-title="P82Media|🇨🇭|Kênh Thuỵ Sĩ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/220px-RSI_La_2_2012.svg.png",RSI LA 2
+http://185.236.229.31:9981/play/a00n
+#EXTINF:-1 group-title="P82Media|🇨🇭|Kênh Thuỵ Sĩ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/200px-RTS_1_logo_2019.svg.png",RTS 1
+http://185.236.229.31:9981/play/a00j
+#EXTINF:-1 group-title="P82Media|🇨🇭|Kênh Thuỵ Sĩ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/250px-RTS_2_logo_2019.svg.png",RTS 2
+http://185.236.229.31:9981/play/a00k
+#EXTINF:-1 group-title="P82Media|🇨🇭|Kênh Thuỵ Sĩ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/SRF_1_logo.svg/150px-SRF_1_logo.svg.png",SRF 1
+http://185.236.229.31:9981/play/a00h
+#EXTINF:-1 group-title="P82Media|🇨🇭|Kênh Thuỵ Sĩ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/220px-Logo_SRF_info.svg.png",SRF INFO
+http://185.236.229.31:9981/play/a00l
+#EXTINF:-1 group-title="P82Media|🇨🇭|Kênh Thuỵ Sĩ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/320px-Logo_SRF_zwei.svg.png",SRF ZWEI
+http://185.236.229.31:9981/play/a00i
 
 #EXTINF:-1 tvg-id="cctv1" group-title="P82Media|🇨🇳|CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CCTV-1_HD.png/revision/latest/scale-to-width-down/180?cb=20220508121352&path-prefix=vi", CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
