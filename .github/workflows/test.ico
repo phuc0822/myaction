@@ -604,12 +604,9 @@ https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 https://sglive.akamaized.net/bpk-tv/prod_history/default/index.mpd
 #EXTINF:-1 tvg-id="hits" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EXKbZQ/QXGbXfvyyAZfu/A","kid":"GmKvBY6fQsWsaqWym93KEQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dLhQlOnKHSe22vlK+Wh3hg","kid":"ZvOM6qe0SfOb+QEao3xFjQ"},{"kty":"oct","k":"PJ2hDjPPj7MngRTHBB2+Gw","kid":"rjeM6qe0SfOb+QEao3xFjQ"},{"kty":"oct","k":"TNU+CmN8B2sN4/HpI3/OMw","kid":"uzvQG6e0SfOb+QEao3xFjQ"},{"kty":"oct","k":"gHN8FlRPE+IcJ54XDSZwyQ","kid":"p0jQM/a0SfOb+QEao3xFjQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/bpk-tv/prod_hitshd/default/index.mpd
-#EXTINF:-1 tvg-id="hits" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-http://liveonzen.gviet.vn/manifest/hits/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="hitsmovies" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png",HITS MOVIES
 http://210.210.155.35/session/f73ff388-b2d2-11ed-8d27-c81f66f89318/dr9445/h/h38/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest/scale-to-width-down/200?cb=20211017093150&path-prefix=vi",Hollywood Classics
