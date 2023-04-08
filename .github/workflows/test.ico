@@ -17,7 +17,7 @@ https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 https://dl.dropboxusercontent.com/s/lp667v0mq7vcaf8/p82-vtv5
 #EXTINF:-1 tvg-id="vtv6hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/ied93p5eyrrawsi/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=P82Media
-http://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
+https://dl.dropboxusercontent.com/s/d1yvsxfi1g9ili9/p82-vtvct
 #EXTINF:-1 tvg-id="vtv7hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/nr7zqq9mkl3qlpf/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -96,7 +96,7 @@ http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8VDh1DdpToaySdbbduvNEg", "kid":"iLBsVvadR9mCYfSZkw4hKg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uso69ohw849v0nv/vstv341
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
