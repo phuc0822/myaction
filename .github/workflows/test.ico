@@ -117,22 +117,22 @@ http://103.179.188.40/onplus/segment/K_LIFE_6962/m20_index.m3u8
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Life_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022006&path-prefix=vi",K+LIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gzQQs0Xvj/m/kMDl7BCpLw","kid":"n9h2+vfq8I6ohr7Bz7lh4Q"},{"kty":"oct","k":"wl6fwYHgYvf3WhycZGbWJA","kid":"5xx2+vfq8I6ohr7Bz7lh4Q"},{"kty":"oct","k":"6d+5xoWZdGJeyS4AXe6ffg","kid":"9CC6K/fq8I6ohr7Bz7lh4Q"},{"kty":"oct","k":"aDJFKQtiXuKjN25C96Zc1w","kid":"4C26Q0bq8I6ohr7Bz7lh4Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/7yyqm9e9sse6gl2/a86jLEdKExN2kgLJUio_uzqr7h5me_Ir1DCmXQDy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/190?cb=20220127020325&path-prefix=vi",K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bEaefkxAzT6NUAiso8nrgA","kid":"at2hdK1uStcMNUWuwzvkgg"},{"kty":"oct","k":"IL67Ck4IMFdT1ihUGPNCSw","kid":"siGhdK1uStcMNUWuwzvkgg"},{"kty":"oct","k":"aVMmfT1exbFn4uPDu464Lg","kid":"vyXlpa1uStcMNUWuwzvkgg"},{"kty":"oct","k":"ZZ3ZAVglYWW10X19YB2EGg","kid":"qzLlvfxuStcMNUWuwzvkgg"}], "type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/75m6kt9hr8hgxst/-AmYsOqSFPl2bKmRa_0Q8pjtsxY9z1veewEcYPmf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/Kplus_Sport_2_2021.png/revision/latest/scale-to-width-down/190?cb=20220127022012&path-prefix=vi",K+SPORT2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a1qWnrPLBvF6DQQksRc0AA","kid":"NE0vH4Dey9zwtYo+l49etw"},{"kty":"oct","k":"WcalVZ/i4ZFSzRChXQ3ICw","kid":"fJEvH4Dey9zwtYo+l49etw"},{"kty":"oct","k":"DMhqx4S5baE3wHtLiXGgSA","kid":"iZVzUIDey9zwtYo+l49etw"},{"kty":"oct","k":"LqdZHbVhOGVdQsIastJpcg","kid":"daJzaM/ey9zwtYo+l49etw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/or80ibalcdyio8g/ey17wMFjt6D8td1O8jcUFhlxREBkNJQx_kBpxYTy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lphS4PGG1qmekA+3Ku+qGw","kid":"9Ic0x74805Joygp4DadkSg"},{"kty":"oct","k":"+y4wjFFiMUm++tP+zNbsQw","kid":"PMs0x74805Joygp4DadkSg"},{"kty":"oct","k":"RA7FkefGIJZLgvWn7bIWZQ","kid":"Sc94+L4805Joygp4DadkSg"},{"kty":"oct","k":"g5N8Hz1W5id0QmFut6Z5Qg","kid":"Ndx4EA0805Joygp4DadkSg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/4b2en0t6nki6r3x/F31WvdXdwYNOInUaTeIC-ixsLQVsrSNgUczDSFCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
@@ -198,7 +198,7 @@ https://dl.dropboxusercontent.com/s/tr3qfl5qb7eps52/p82-vtc1
 #EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/240px-VTC2_logo_2018.svg.png" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/200?cb=20201207142820&path-prefix=vi",VTC3
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+https://dl.dropboxusercontent.com/s/0ne6cs9cxza8mjk/p82-vtc3
 #EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/VTC4_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20201212065736&path-prefix=vi",VTC4
 https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/VTC5.png/revision/latest/scale-to-width-down/200?cb=20201123091837&path-prefix=vi" group-title="P82Media|🇻🇳|VTC",VTC5
@@ -447,7 +447,7 @@ http://103.90.220.236/sltvlive/tv1live-transmux.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://w.ladicdn.com/s500x350/5ec394fc3354ff26568e1124/logo-ttv11-v4-20210920011712.png", TTV11 - Tây Ninh
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sda/tayninhhd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="thaibinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Th%C3%A1i_B%C3%ACnh_-_TBTV.svg/320px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Th%C3%A1i_B%C3%ACnh_-_TBTV.svg.png",TBTV - Thái Bình
+#EXTINF:-1 tvg-id="thaibinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/7yrct45vfvtjr0r/p82media",TBTV - Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TN1_Thai_Nguyen_logo.png/revision/latest/scale-to-width-down/220?cb=20200311054345",TN1 - Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
