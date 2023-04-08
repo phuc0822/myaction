@@ -744,15 +744,15 @@ https://bozztv.com/inim03/live1/gin-yementv-in/chunks.m3u8
 http://2.cvmtv.site:8080/stream/channelid/1625287896
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo=https://cdn.tvpassport.com/image/station/240x135/v2/s76942_h15_ab.png",Bein Sports 1 Inglês
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-039/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo=https://cdn.tvpassport.com/image/station/240x135/v2/s76942_h15_ab.png",Bein Sports 2 Inglês
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-040/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo=https://cdn.tvpassport.com/image/station/240x135/v2/s76942_h15_ab.png",Bein Sports 3 Inglês
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-041/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.png?type=color_onBlack",BEIN SPORTS XTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
@@ -768,39 +768,39 @@ http://163.172.221.223:90/bt3/index.m3u8
 http://2.cvmtv.site:8080/stream/channelid/1048689498
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/320px-DAZN_1_Logo.svg.png",DAZN 1 ALE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/320px-DAZN_2.svg.png",DAZN 2 ALE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/320px-DAZN_1_Logo.svg.png",DAZN 1 IT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-019/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/320px-DAZN_2.svg.png",DAZN 2 IT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-020/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/120px-DAZN_Channel.svg.png",DAZN ?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-021/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_del_canale_televisivo_Zona_DAZN.svg/260px-Logo_del_canale_televisivo_Zona_DAZN.svg.png",Zona DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-024/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/320px-DAZN_1_Logo.svg.png",DAZN 1 ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/320px-DAZN_2.svg.png",DAZN 2 ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/320px-DAZN_LaLiga_logo.svg.png",DAZN LA Liga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/y4fntfxgr542ih2/dazn
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
 http://0.vylc.name.vn/Diema1
@@ -1069,17 +1069,17 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=6
 http://ye23.vip/z7z8/2021/kbs2020.php?id=9
 #EXTINF:-1 tvg-id="KBSLife.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/320px-KBS_Life.svg.png", KBS Life
 http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1 tvg-id="KBSNews.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/KBS_News_logo.png/revision/latest/scale-to-width-down/250?cb=20190516235452", KBS News
+#EXTINF:-1 tvg-id="KBSNews.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/KBS_News_logo.png/revision/latest/scale-to-width-down/250?cb=20190516235452",KBS News
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 #EXTINF:-1 tvg-id="KBSStory.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/320px-KBS_Story.svg.png", KBS Story
 http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 #EXTINF:-1 tvg-id="" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="http://m.cgntv.net/assets/images/logo_cgntv_new.png",CGN TV Korean
 https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
-#EXTINF:-1 tvg-id="KTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://www.ktv.go.kr/resources/images/appico.ico", Korea TV
+#EXTINF:-1 tvg-id="KTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://www.ktv.go.kr/resources/images/appico.ico",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png", MBC
+#EXTINF:-1 tvg-id="MBCTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
 http://c11.kr/wc5u
-#EXTINF:-1 tvg-id="SBSTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS
+#EXTINF:-1 tvg-id="SBSTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png", BS
 https://api.vthanhtivi.pw/qt/sbs.php?id=S01
 #EXTINF:-1 tvg-id="EBS1TV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png", EBS 1
 http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
