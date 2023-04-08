@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/wyl1wuytrxj1h9v/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
 #EXTVLCOPT:http-user-agent=P82Media
-https://dl.dropboxusercontent.com/s/pght4npq48uboxp/p82-vtv1
+https://dl.dropboxusercontent.com/s/i634tfaz2dc6sk1/p82-vtv1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/o0smpkh740gk5gb/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2
 #EXTVLCOPT:http-user-agent=P82Media
 http://live-ali4.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
