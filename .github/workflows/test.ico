@@ -145,7 +145,7 @@ https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w477026843.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg/120px-Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg.png" catchup="append" catchup-days="2" catchup-source="http://vthanhvnpt.duckdns.org:81/cliptvs.php?id=12898262&time=${start}&offset=${offset}",Quốc Hội TV
+#EXTINF:-1 tvg-id="quochoi" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg/120px-Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg.png",Quốc Hội TV
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://dl.dropboxusercontent.com/s/6jsv2i5uutkfrh0/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Quốc Phòng VN
@@ -195,7 +195,7 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://dl.dropboxusercontent.com/s/wjwgl72wi1ven5e/p82media" group-title="P82Media|🇻🇳|VTC",VTC1
 https://dl.dropboxusercontent.com/s/tr3qfl5qb7eps52/p82-vtc1
-#EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/240px-VTC2_logo_2018.svg.png" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
+#EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://dl.dropboxusercontent.com/s/iamw1p0incmpi0x/p82media" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/200?cb=20201207142820&path-prefix=vi",VTC3
 https://dl.dropboxusercontent.com/s/0ne6cs9cxza8mjk/p82-vtc3
@@ -220,7 +220,7 @@ https://livecdn.fptplay.net/hda2/vtc10hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/VTC12_logo_2018.svg/240px-VTC12_logo_2018.svg.png" group-title="P82Media|🇻🇳|VTC" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/VTC13_logo_2018.svg/240px-VTC13_logo_2018.svg.png" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC13
+#EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13" tvg-logo="https://dl.dropboxusercontent.com/s/jo46mupucm20hpm/p82media" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC13
 #EXTVLCOPT:http-user-agent=P82Media
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
@@ -278,12 +278,12 @@ https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s
 #EXTVLCOPT:http-user-agent=P82Media
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
 https:///e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="youtv" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/YouTV_2018_logo.png/revision/latest/scale-to-width-down/200?cb=20220718022814&path-prefix=vi", YouTV Hanoicab2
+#EXTINF:-1 tvg-id="youtv" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://dl.dropboxusercontent.com/s/qkpe19kxdrr609n/p82media", YouTV Hanoicab2
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/An_Ninh_Th%E1%BA%BF_Gi%E1%BB%9Bi_logo_26-08-2022.png/revision/latest/scale-to-width-down/180?cb=20220901105136&path-prefix=vi", An Ninh Thế Giới
 
-#EXTINF:-1 tvg-id="angiang" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg/320px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg.png",ATV - An Giang
+#EXTINF:-1 tvg-id="angiang" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/8unwla29g2jed8a/p82media",ATV - An Giang
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://brt.vn/static/media/logo.png",BRT - Bà Rịa Vũng Tàu
@@ -451,7 +451,7 @@ https://livecdn.fptplay.net/sda/tayninhhd_2000.stream/chunklist.m3u8
 http://103.90.220.236/tbtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TN1_Thai_Nguyen_logo.png/revision/latest/scale-to-width-down/220?cb=20200311054345",TN1 - Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="thanhhoa" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg/320px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg.png",TTV - TH Thanh Hóa
+#EXTINF:-1 tvg-id="thanhhoa" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/jboomgv9qjn2m56/p82media",TTV - Thanh Hoá
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/TRT_logo_07-11-2021.png/revision/latest/scale-to-width-down/200?cb=20220826232758&path-prefix=vi",TRT - Thừa Thiên Huế
@@ -494,7 +494,7 @@ https://vtsstr3.tv24.vn/elive/smil:AnimalPlanet_SD.smil/chunklist.m3u8?uid=s2c52
 http://103.56.156.30:8081/udp/225.1.1.135:30120
 #EXTINF:-1 tvg-id="aniplus" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png",ANIPLUS
 http://210.210.155.35/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="afnhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/mljkxntg0h4ky0f/p82media",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wsO2G4PvtifffVR/lo1O3Q","kid":"4FmgRuhcTxysxfewBV9HOw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
