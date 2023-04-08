@@ -202,8 +202,8 @@ https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/VTC4_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20201212065736&path-prefix=vi",VTC4
 https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/VTC5.png/revision/latest/scale-to-width-down/200?cb=20201123091837&path-prefix=vi" group-title="P82Media|🇻🇳|VTC",VTC5
-#EXTVLCOPT:http-user-agent=P82Media
-https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc5/sd2/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/240px-VTC6_logo_2018.svg.png" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
@@ -269,21 +269,19 @@ https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s
 #EXTINF:-1 tvg-id="sctv20hd" group-title="P82Media|🇻🇳|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/SCTV20_logo_2019.png/revision/latest/scale-to-width-down/200?cb=20220223142132&path-prefix=vi",SCTV20
 https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="sctv21hd" group-title="P82Media|🇻🇳|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/SCTV21_logo_2019.png/revision/latest/scale-to-width-down/200?cb=20220223142134&path-prefix=vi",SCTV21 VIỆT NAM KÝ ỨC
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv22hd" group-title="P82Media|🇻🇳|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/SCTV22_SSport_1_logo.png/revision/latest/scale-to-width-down/200?cb=20211211015808&path-prefix=vi",SCTV22 SSPORT1
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 #EXTINF:-1 tvg-id="hitv" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/190?cb=20200831064739&path-prefix=vi", HiTV Hanoicab1
-https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
+#EXTVLCOPT:http-user-agent=P82Media
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https:///e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="youtv" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/YouTV_2018_logo.png/revision/latest/scale-to-width-down/200?cb=20220718022814&path-prefix=vi", YouTV Hanoicab2
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/An_Ninh_Th%E1%BA%BF_Gi%E1%BB%9Bi_logo_26-08-2022.png/revision/latest/scale-to-width-down/180?cb=20220901105136&path-prefix=vi", An Ninh Thế Giới
-#EXTVLCOPT:http-user-agent=P82Media
-#EXTVLCOPT:http-referer=http://sctvonline.vn/
-https:///e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="angiang" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg/320px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg.png",ATV - An Giang
 #EXTVLCOPT:http-user-agent=P82Media
@@ -636,7 +634,8 @@ https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1  group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Mta_1_int.png/180px-Mta_1_int.png",MTA1 WORLD
 http://91.224.190.66:4257/bysid/53151
 #EXTINF:-1 tvg-id="musicbox" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest?cb=20211017093409&path-prefix=vi",MUSIC BOX
-https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/110px-NASA_logo.svg.png",NASA
 http://185.236.229.31:9981/play/a05q
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
