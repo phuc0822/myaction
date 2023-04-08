@@ -5,16 +5,16 @@
 https://dl.dropboxusercontent.com/s/i634tfaz2dc6sk1/p82-vtv1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/o0smpkh740gk5gb/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2
 #EXTVLCOPT:http-user-agent=P82Media
-http://live-ali4.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+https://dl.dropboxusercontent.com/s/s8ukmx1imhdjqql/p82-vtv2
 #EXTINF:-1 tvg-id="vtv3hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/dagezbhdtzhmvj0/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3
 #EXTVLCOPT:http-user-agent=P82Media
-http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+https://dl.dropboxusercontent.com/s/zhzxpc7i0oxhtuh/p82-vtv3
 #EXTINF:-1 tvg-id="vtv4hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/5wnpx1q00zactkq/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/nja5qanvn978xpk/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
 #EXTVLCOPT:http-user-agent=P82Media
-http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+https://dl.dropboxusercontent.com/s/lp667v0mq7vcaf8/p82-vtv5
 #EXTINF:-1 tvg-id="vtv6hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/ied93p5eyrrawsi/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=P82Media
 http://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
@@ -641,7 +641,7 @@ http://185.236.229.31:9981/play/a05q
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/cmw3qhd9kelfegy/p82media",NATIONAL GEOGRAPHIC
 http://103.56.156.30:8081/udp/225.1.4.215:30120
-#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/320px-NHK_World-Japan_TV.svg.png",NHK World
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/jsisi8gufvn4lo6/p82media",NHK World
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_4M.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/320px-NHK_logo_2020.svg.png",NHK World Premium
