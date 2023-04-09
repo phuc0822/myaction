@@ -35,7 +35,7 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://dl.dropboxusercontent.com/s/62iri1u7cq1fgi6/p82media",VTVCab1 - Vie Giải trí
 https://livevlive.vtvcab.vn/hls/GIAITRI_TV_HD_CL/sc-gaFEAA/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/Phimviet.png/revision/latest?cb=20201011071019&path-prefix=vi",ON Phim Việt
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://dl.dropboxusercontent.com/s/qi9xtjy9bq7elbk/p82media",ON Phim Việt
 #EXTVLCOPT:http-user-agent=P82Media
 https://phimmoi.asia/vipvieon.php?id=vtvcab2
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/200?cb=20220311023726&path-prefix=vi",ON SPORTS
@@ -130,7 +130,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/or80ibalcdyio8g/ey17wMFjt6D8td1O8jcUFhlxREBkNJQx_kBpxYTy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/190?cb=20220127020331&path-prefix=vi",K+KIDS
+#EXTINF:-1 tvg-id="kkidshd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://dl.dropboxusercontent.com/s/otswk7qm0dsrltj/p82media",K+KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/4b2en0t6nki6r3x/F31WvdXdwYNOInUaTeIC-ixsLQVsrSNgUczDSFCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
@@ -413,7 +413,7 @@ https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 http://103.90.220.236/natvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/NTV_Ninh_B%C3%ACnh.png/revision/latest/scale-to-width-down/180?cb=20220827022815&path-prefix=vi",NTV - Ninh Bình
 http://103.90.220.236/nbtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="ninhthuan" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/NTV_Ninh_Thuan_02-2019.png/revision/latest/scale-to-width-down/200?cb=20220527075401&path-prefix=vi",NTV - Ninh Thuận
+#EXTINF:-1 tvg-id="ninhthuan" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/icycpiq3w9t34ha/p82media",NTV - Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1263856760.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://phuthotv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logo-footer.png",PTV - Phú Thọ
 #EXTVLCOPT:http-user-agent=P82Media
@@ -433,7 +433,7 @@ https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
 http://103.90.220.236/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://media.baoquangninh.com.vn/upload/files/logo/logotrangchu2.png",QTV3 - Quảng Ninh
 http://103.90.220.236/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="quangtri" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ab/QRTV_logo_%28Quang_Tri%29.png/revision/latest/scale-to-width-down/200?cb=20211118135519&path-prefix=vi",QRTV - Quảng Trị
+#EXTINF:-1 tvg-id="quangtri" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/rvijbrxuxjoxjqr/p82media",QRTV - Quảng Trị
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="http://thst.vn/Content/images/stv1.png",STV1 - Sóc Trăng
@@ -550,7 +550,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://91.224.190.66:4245/bysid/50290
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest/scale-to-width-down/180?cb=20220707061525&path-prefix=vi",CinemaWorld
 http://103.56.156.30:8081/udp/225.1.1.142:30120
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/k8h2qtfhmhwv0vz/p82media",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/a84efpp1ntmr24z/93Fm1pt06G3XN6aYpEY5YAafKvk_MOs_6Qj57Jn9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
