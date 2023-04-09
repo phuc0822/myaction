@@ -35,7 +35,7 @@ https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV5_T%C3%A2y_Nguy%C3%AAn_%28B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/220?cb=20220530125853&path-prefix=vi",VTV5 Tây Nguyên
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/m8pn1g6b_viegiaitri_logo_468_134.png",VTVCab1 - Vie Giải trí
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://dl.dropboxusercontent.com/s/62iri1u7cq1fgi6/p82media",VTVCab1 - Vie Giải trí
 https://livevlive.vtvcab.vn/hls/GIAITRI_TV_HD_CL/sc-gaFEAA/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/Phimviet.png/revision/latest?cb=20201011071019&path-prefix=vi",ON Phim Việt
 #EXTVLCOPT:http-user-agent=P82Media
@@ -57,7 +57,7 @@ https://livevlive.vtvcab.vn/hls/O2_TV_CL/sc-gaFEAA/m30_index.m3u8
 https://livevlive.vtvcab.vn/hls/BIBI_CL/sc-gaFEAA/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/6/tuyet/infotv-01282_w500_h500.png",ON INFO TV
 https://livevlive.vtvcab.vn/hls/INFO_TV_CL/sc-gaFEAA/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a5/ON_Cine_logo_09-03-2022.png/revision/latest/scale-to-width-down/200?cb=20220309030239&path-prefix=vi",ON Cine
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://dl.dropboxusercontent.com/s/2bt1q31otg5aqng/p82media",ON Cine
 #EXTVLCOPT:http-user-agent=P82Media
 https://phimmoi.asia/vipvieon.php?id=vtvcab10
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/6/tuyet/styletv-01282_w500_h500.png",ON Style TV
