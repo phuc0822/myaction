@@ -1,9 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/wyl1wuytrxj1h9v/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/rsy43l833ksvgvd/WBSb0vxfNmLVmW814CFu_4CAeEukAj5QxKHd9JwV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+#EXTVLCOPT:http-user-agent=P82Media
 https://dl.dropboxusercontent.com/s/i634tfaz2dc6sk1/p82-vtv1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="P82Media|🇻🇳|VTV" tvg-logo="https://dl.dropboxusercontent.com/s/o0smpkh740gk5gb/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2
 #EXTVLCOPT:http-user-agent=P82Media
