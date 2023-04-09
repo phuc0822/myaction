@@ -68,7 +68,7 @@ https://livevlive.vtvcab.vn/hls/M_CHANNEL_CL/sc-gaFEAA/m20_index.m3u8
 http://103.179.188.40/onplus/segment/BONGDA_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/34/Yeah1TV.png",ON Trending TV
 https://livevlive.vtvcab.vn/hls/YEAH1_TV_CL/sc-gaFEAA/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/180?cb=20220403050655&path-prefix=vi",ON SPORTS NEWS
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://dl.dropboxusercontent.com/s/gt9idcy550i2duh/p82media",ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/4806.png",VTVcab 19 - Vie Dramas
@@ -162,7 +162,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://dl.dropboxusercontent.com/s/l7zxgzge3e4372h/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV3
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/HTV_Key_2022.png/revision/latest/scale-to-width-down/220?cb=20220630122006&path-prefix=vi",HTV Key
+#EXTINF:-1 tvg-id="htv4" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://dl.dropboxusercontent.com/s/1h4z4u9oltck7xq/p82media",HTV Key
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://dl.dropboxusercontent.com/s/7ybte9u8niq1so0/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7
@@ -183,10 +183,10 @@ https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://dl.dropboxusercontent.com/s/qyof4iekmstnwsb/p82media",HTVC Phụ nữ
 #EXTVLCOPT:http-user-agent=P82Media
 https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/88/HTVC_Travel_and_Living.png/revision/latest/scale-to-width-down/200?cb=20220329233341&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}",HTVC Du lịch Cuộc sống
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://dl.dropboxusercontent.com/s/0els9tf4d2kn2ty/p82media",HTVC Du lịch Cuộc sống
 #EXTVLCOPT:http-user-agent=P82Media
 https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HTVC_Ca_Nh%E1%BA%A1c_logo.png/revision/latest/scale-to-width-down/200?cb=20210629030320&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}",HTVC Ca nhạc
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://dl.dropboxusercontent.com/s/dznh9u6sd7pifi9/p82media",HTVC Ca nhạc
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/HTVC_Phim_2018_logo.png/revision/latest/scale-to-width-down/200?cb=20220527083614&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Phim
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
