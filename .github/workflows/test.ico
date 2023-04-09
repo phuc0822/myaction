@@ -340,7 +340,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://mediadrt.mediatech.vn/upload/files/image/logo.png",DRT - Đắk Lắk
 http://103.90.220.236/drtlive/tv1live-transmux.m3u8
-#EXTINF:-1 tvg-id="daknong" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/PTD_%C4%90%E1%BA%AFk_N%C3%B4ng.png/revision/latest/scale-to-width-down/200?cb=20210824022247&path-prefix=vi",PTD - Đắk Nông
+#EXTINF:-1 tvg-id="daknong" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/ew98ogoeufy847l/p82media",PTD - Đắk Nông
 https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/dwoom8feloqxyu4/p82media",ĐTV - Điện Biên
 #EXTVLCOPT:http-user-agent=P82Media
@@ -353,7 +353,7 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/%C4%90N3_logo_2018_v1.png/revision/latest/scale-to-width-down/200?cb=20211026014707&path-prefix=vi",ĐN3 - Đồng Nai
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
-#EXTINF:-1 tvg-id="dongthap" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Logo_TH%C4%90T1_%C4%90%E1%BB%93ng_Th%C3%A1p_%28B%E1%BA%A3n_1%29.png/revision/latest/scale-to-width-down/200?cb=20220403100548&path-prefix=vi",THĐT1 - Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/gr2eaf43js9oei7/p82media",THĐT1 - Đồng Tháp
 http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_2019-nay.png/revision/latest/scale-to-width-down/200?cb=20210915161705&path-prefix=vi",THĐT2 - Miền Tây
 #EXTVLCOPT:http-user-agent=P82Media
@@ -871,7 +871,7 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/220px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png",Saudi Quran
+#EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://dl.dropboxusercontent.com/s/l0vr1epssfwm88m/p82media",Saudi Quran
 http://185.236.229.31:9981/play/a018
 #EXTINF:-1 group-title="P82Media|🇸🇦|Kênh Ả Rập" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",Saudi Sunnah
 http://185.236.229.31:9981/play/a017
