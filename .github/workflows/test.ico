@@ -195,10 +195,12 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://dl.dropboxusercontent.com/s/wjwgl72wi1ven5e/p82media" group-title="P82Media|🇻🇳|VTC",VTC1
+#EXTVLCOPT:http-user-agent=P82Media
 https://dl.dropboxusercontent.com/s/tr3qfl5qb7eps52/p82-vtc1
 #EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://dl.dropboxusercontent.com/s/iamw1p0incmpi0x/p82media" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/200?cb=20201207142820&path-prefix=vi",VTC3
+#EXTVLCOPT:http-user-agent=P82Media
 https://dl.dropboxusercontent.com/s/0ne6cs9cxza8mjk/p82-vtc3
 #EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/VTC4_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20201212065736&path-prefix=vi",VTC4
 https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
@@ -223,8 +225,7 @@ https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13" tvg-logo="https://dl.dropboxusercontent.com/s/jo46mupucm20hpm/p82media" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC13
 #EXTVLCOPT:http-user-agent=P82Media
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+https://dl.dropboxusercontent.com/s/intz9bg0ioqtuzs/p82-vtc13
 #EXTINF:-1 tvg-id="vtc14hd" tvg-name="VTC14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/239px-VTC14_logo_2018.svg.png" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc14-hd/dvr-${start}-${offset}.m3u8",VTC14
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/240px-VTC16_logo_2018.svg.png" group-title="P82Media|🇻🇳|VTC" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc16-hd/dvr-${start}-${offset}.m3u8",VTC16
