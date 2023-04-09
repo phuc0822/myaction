@@ -139,10 +139,11 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="vovtvhd" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://dl.dropboxusercontent.com/s/x4qxqgafznxit0s/p82media",VOV TV
 http://103.90.220.236/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://dl.dropboxusercontent.com/s/up2pnwu4i5e5kb6/p82media",VNews Thông Tấn Xã VN
-https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
+#EXTVLCOPT:http-user-agent=P82Media
+https://dl.dropboxusercontent.com/s/ehuvt43ysys7r9d/p82-vnews
 #EXTINF:-1 tvg-id="antvhd" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://dl.dropboxusercontent.com/s/gkfg3hgv0imqsi9/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",An Ninh TV
 #EXTVLCOPT:http-user-agent=P82Media
-https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+https://dl.dropboxusercontent.com/s/moheha1xi4kiwk3/p82-anninh
 #EXTINF:-1 tvg-id="nhandan" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w477026843.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://dl.dropboxusercontent.com/s/3ysmk67bna44pzv/p82media",Quốc Hội TV
