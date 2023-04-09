@@ -43,7 +43,7 @@ https://phimmoi.asia/vipvieon.php?id=vtvcab2
 http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/logoONMovieschuan-011.jpg",ON Movies
 https://livevlive.vtvcab.vn/hls/VAN_HOA_CL/sc-gaFEAA/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/EChannel_logo_%282014-present%29.png/revision/latest?cb=20191114063608",ON E Channel
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://dl.dropboxusercontent.com/s/ytuluj90qgcgoe4/p82media",ON E Channel
 #EXTVLCOPT:http-user-agent=P82Media
 https://phimmoi.asia/vipvieon.php?id=vtvcab5
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="P82Media|🇻🇳|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/On_Sports%2B_logo_08-12-2022.png/revision/latest/scale-to-width-down/200?cb=20221208142717&path-prefix=vi",ON Sports+
@@ -321,9 +321,9 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://anvientv.com.vn/uploads/avatar/1643247141_logoanvien3.png",BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Logo_BPTV1_%282020%2C_logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest/scale-to-width-down/200?cb=20220210160202&path-prefix=vi",BPTV1 - Bình Phước
+#EXTINF:-1 tvg-id="binhphuoc1" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/tugp55gj08vhn67/p82media",BPTV1 - Bình Phước
 http://103.90.220.236/bptvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hometvbptv2" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/Logo_BPTV2_%282021%2C_logo_ch%C3%ADnh_b%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/200?cb=20220209031605&path-prefix=vi",BPTV2 - Bình Phước
+#EXTINF:-1 tvg-id="hometvbptv2" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/fbijixb80t4ducs/p82media",BPTV2 - Bình Phước
 http://103.90.220.236/bptvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="http://binhthuantv.vn/wp-content/themes/dongthap/favicon.png",BTV - Bình Thuận
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
@@ -372,7 +372,7 @@ https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
 https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://hatinhtv.vn/img/logo-footer.png",HTTV - Hà Tĩnh
 https://code.vthanhtivi.pw/getlink/mytv/405/hd.m3u8
-#EXTINF:-1 tvg-id="haiduong" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THD.png/revision/latest/scale-to-width-down/200?cb=20210626023548&path-prefix=vi",THD - Hải Dương
+#EXTINF:-1 tvg-id="haiduong" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/f15hxaq9f7tpxxj/p82media",THD - Hải Dương
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/THP_logo_alt.png/revision/latest/scale-to-width-down/200?cb=20210905085513&path-prefix=vi",THP - Hải Phòng
