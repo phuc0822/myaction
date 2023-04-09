@@ -667,12 +667,20 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png",RUSSIA TODAY
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/t8pwq0qpxze2bhl/spo
+https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png",SPO TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/lr07oy8fim5e4a3/spo2
+https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.nowtv.now.com/media/logo/139-wbg-e.png",STAR CHINESE MOVIES
 http://23.237.10.66:16359
-#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-id="thrill" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/Thrill_2014.png/revision/latest/scale-to-width-down/180?cb=20220502113019&path-prefix=vi",THRILL
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://suprememastertv.com/images/logo.png",SUPREME MASTER TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-id="thrill" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/Thrill_2014.png/revision/latest/scale-to-width-down/180?cb=20220502113019&path-prefix=vi",THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png",TLC
 http://103.56.156.30:8081/udp/225.1.1.236:30120
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport_r1.png",TRACE SPORT STARS
@@ -837,10 +845,6 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://i.playboard.app/p/AATXAJx_-CQnivR9co9GGc1T-9pD_rgU4MnWQ5JEDAty/default.jpg",Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPO TV
-http://0.vylc.name.vn/spotv
-#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png",SPO TV 2
-http://0.vylc.name.vn/spotv2
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Sports_TV_Plus_Network.png",SPORTS TV PLUS
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SPORTV
