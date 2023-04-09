@@ -504,7 +504,7 @@ https://sglive.akamaized.net/bpk-tv/prod_afnhd/default/index.mpd
 #EXTINF:-1 tvg-id="arirang" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/ezwcocm6rxrkuns/p82media",Arirang
 http://91.224.190.66:4257/bysid/53150
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1b/AXN.png/revision/latest/scale-to-width-down/200?cb=20211126153822&path-prefix=vi",AXN
+#EXTINF:-1 tvg-id="axnhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/b6msdsu3m6z097n/p82media",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EkILsdcGRZzPq3gQpaYR8A","kid":"YXrsxNQ3MuSpkgVqpS0eow"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
