@@ -661,7 +661,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/200px-Press_Tv_logo.svg.png",PRESS TV
 http://162.212.178.70:4842/bysid/1531
-#EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/512px-Rai_News_24_logo_%282022%29.svg.png",Rai News 24
+#EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/9334lsaly8te5hl/p82media",Rai News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
@@ -696,7 +696,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://vtsstr3.tv24.vn/elive/smil:TV5_SD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg/revision/latest/scale-to-width-down/250?cb=20191207000751",TV5Monde Style
 http://210.210.155.35/session/f6aee950-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h121/index.m3u8
-#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/hlbie12omvgerp3/p82media",TVB Jade
 http://23.237.10.66:16410
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395.png",tvN
 http://210.210.155.35/session/49742232-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h20/index.m3u8
@@ -708,12 +708,12 @@ http://210.210.155.35/dr9445/h/h21/index.m3u8
 http://103.56.156.30:8081/udp/225.1.4.14:30120
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/8evdn35u4ku5pvj/p82media",WION TV
 http://91.224.190.66:4243/bysid/52119
-#EXTINF:-1 tvg-id="woman" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/40/WOMAN_logo_3D.png/revision/latest/scale-to-width-down/190?cb=20220713121123&path-prefix=vi",WOMAN
+#EXTINF:-1 tvg-id="woman" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/2ypux2fgp0z3w1w/p82media",WOMAN
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/5kp78gkhi2xhfka/p82media" group-title="P82Media|🌏|Quốc tế",Xing Kong
 http://live.cooltv.top/tv/good.php?id=xingkong_1500
-#EXTINF:-1 tvg-id="zoomoo" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-_5jyWGNRYVCQB2j99YGLsBBLQljRgs80a2yFkhA=s900-c-k-c0x00ffffff-no-rj",Zoo Moo
+#EXTINF:-1 tvg-id="zoomoo" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/bms2h533l7p9n8k/p82media",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",CBN NEWS
@@ -736,7 +736,7 @@ http://162.212.178.70:41042/bysid/802
 #EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.usagm.gov/wp-content/uploads/2022/01/RFA-logo-RGB-1.png",Radio Free Asia
 https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 http://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
-#EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Redbox.svg/revision/latest/scale-to-width-down/300?cb=20230123103514",Redbox
+#EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/6nfj3p6c3iax59y/p82media",Redbox
 https://rush-redbox.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/160px-RTP.svg.png",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Opera
@@ -840,7 +840,7 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 http://0.vylc.name.vn/FS1
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 http://0.vylc.name.vn/FS2
-#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fd/Motorsport.TV_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20170303101748",Мotor Sport TV
+#EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://dl.dropboxusercontent.com/s/icvonvv4f88x2ua/p82media",Мotor Sport TV
 https://alchimie-motosport-tv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|⚽️|Kênh Thể Thao" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561591625_oman-tv-sport-.jpg",Oman Sports
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
@@ -1084,7 +1084,7 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
 #EXTINF:-1 tvg-id="KTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://www.ktv.go.kr/resources/images/appico.ico",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
+#EXTINF:-1 tvg-id="MBCTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/100px-Munhwa_Broadcasting_Company.svg.png",MBC
 http://c11.kr/wc5u
 #EXTINF:-1 tvg-id="SBSTV.kr" group-title="P82Media|🇰🇷|Kênh Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png", BS
 https://api.vthanhtivi.pw/qt/sbs.php?id=S01
@@ -1115,7 +1115,7 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 https://live.astradamy.com/hk33/index.m3u8
 #EXTINF:-1 group-title="P82Media|🇭🇰|Kênh Hồng Kông" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f9/RTHK_TV_34.svg/220px-RTHK_TV_34.svg.png",RTHK 34 (CGTN DOCUMENTARY)
 #http://58.177.67.136:8013/bysid/34
-#EXTINF:-1 group-title="P82Media|🇭🇰|Kênh Hồng Kông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
+#EXTINF:-1 group-title="P82Media|🇭🇰|Kênh Hồng Kông" tvg-logo="https://dl.dropboxusercontent.com/s/hlbie12omvgerp3/p82media",TVB Jade
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 http://cms750.synology.me:8001/bysid/1
 #EXTINF:-1 group-title="P82Media|🇭🇰|Kênh Hồng Kông" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_80viutv_six.jpg",ViuTVsix
