@@ -94,7 +94,7 @@ http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/o2a0ih32wz0xgbw/vstv340
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://dl.dropboxusercontent.com/s/3f1w5usc1h1rz6f/p82media",K+SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://dl.dropboxusercontent.com/s/akclqbv2dn34gg5/p82media",K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uso69ohw849v0nv/vstv341
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
@@ -120,7 +120,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/7yyqm9e9sse6gl2/a86jLEdKExN2kgLJUio_uzqr7h5me_Ir1DCmXQDy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://dl.dropboxusercontent.com/s/3f1w5usc1h1rz6f/p82media",K+SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://dl.dropboxusercontent.com/s/akclqbv2dn34gg5/p82media",K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/75m6kt9hr8hgxst/-AmYsOqSFPl2bKmRa_0Q8pjtsxY9z1veewEcYPmf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
@@ -379,7 +379,7 @@ https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 https://live.thhp.vn/thp/index.m3u8		
 #EXTINF:-1 tvg-id="haiphongplus" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/THP_Plus_2017.png/revision/latest/scale-to-width-down/200?cb=20211127023214&path-prefix=vi",THP+ - Hải Phòng
 https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1 tvg-id="haugiang" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/Logo_HGTV_H%E1%BA%ADu_Giang_09-2021.png/revision/latest/scale-to-width-down/200?cb=20221101130737&path-prefix=vi",HGTV - Hậu Giang
+#EXTINF:-1 tvg-id="haugiang" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/enwiahkrfmq1wxd/p82media",HGTV - Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w794238789.m3u8
 #EXTINF:-1 tvg-id="hoabinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HBTV_logo_2021_%28H%C3%ACnh_hi%E1%BB%87u%29.png/revision/latest/scale-to-width-down/180?cb=20211224015823&path-prefix=vi",HBTV - Hoà Bình
 #EXTVLCOPT:http-user-agent=P82Media
@@ -504,7 +504,7 @@ http://91.224.190.66:4257/bysid/53150
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/b6msdsu3m6z097n/p82media",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EkILsdcGRZzPq3gQpaYR8A","kid":"YXrsxNQ3MuSpkgVqpS0eow"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/8ahx6df2e9dzilw/oNFiSa1T83qZwlqd53gWi53FcnribL1fdX7Uf5W_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/axn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="babytvhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV
@@ -602,7 +602,7 @@ https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 https://sglive.akamaized.net/bpk-tv/prod_history/default/index.mpd
 #EXTINF:-1 tvg-id="hits" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dLhQlOnKHSe22vlK+Wh3hg","kid":"ZvOM6qe0SfOb+QEao3xFjQ"},{"kty":"oct","k":"PJ2hDjPPj7MngRTHBB2+Gw","kid":"rjeM6qe0SfOb+QEao3xFjQ"},{"kty":"oct","k":"TNU+CmN8B2sN4/HpI3/OMw","kid":"uzvQG6e0SfOb+QEao3xFjQ"},{"kty":"oct","k":"gHN8FlRPE+IcJ54XDSZwyQ","kid":"p0jQM/a0SfOb+QEao3xFjQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/212rgnba2gl2ql7/rMYbbIh9K8-ZRhZ3B1iePDh9FhB98axJlXL72QtI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/bpk-tv/prod_hitshd/default/index.mpd
 #EXTINF:-1 tvg-id="hitsmovies" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png",HITS MOVIES
