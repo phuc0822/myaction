@@ -283,7 +283,7 @@ https:///e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=http://sctvon
 #EXTINF:-1 tvg-id="youtv" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://dl.dropboxusercontent.com/s/qkpe19kxdrr609n/p82media", YouTV Hanoicab2
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="antg" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/An_Ninh_Th%E1%BA%BF_Gi%E1%BB%9Bi_logo_26-08-2022.png/revision/latest/scale-to-width-down/180?cb=20220901105136&path-prefix=vi", An Ninh Thế Giới
+#EXTINF:-1 tvg-id="antg" group-title="P82Media|🇻🇳|Hanoicab" tvg-logo="https://dl.dropboxusercontent.com/s/enx1zlhev43g8qv/p82media",An Ninh Thế Giới
 
 #EXTINF:-1 tvg-id="angiang" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/8unwla29g2jed8a/p82media",ATV - An Giang
 #EXTVLCOPT:http-user-agent=P82Media
@@ -314,10 +314,10 @@ https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/BTV3.png/revision/latest/scale-to-width-down/200?cb=20211207102604&path-prefix=vi",BTV3 - Bình Dương
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhduong4" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/BTV4_logo_03-2022.png/revision/latest/scale-to-width-down/200?cb=20220309025646&path-prefix=vi",BTV4 - Bình Dương
+#EXTINF:-1 tvg-id="binhduong4" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/7btsmfc6jmoszq0/p82media",BTV4 - Bình Dương
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="binhduong6" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/BTV6_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/200?cb=20220208145822&path-prefix=vi",BTV6 - Bình Dương
+#EXTINF:-1 tvg-id="binhduong6" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/nchgze7eeikjh5s/p82media",BTV6 - Bình Dương
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://anvientv.com.vn/uploads/avatar/1643247141_logoanvien3.png",BTV9 - An Viên TV
@@ -408,12 +408,12 @@ http://103.90.220.236/lstvlive/tv1live.m3u8
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png",LA34 - Long An
 https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
-#EXTINF:-1 tvg-id="namdinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/NTV_logo_12-09-2021_%28B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/200?cb=20220821104142&path-prefix=vi",NTV - Nam Định
+#EXTINF:-1 tvg-id="namdinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/dlznxa8a6o32r4f/p82media",NTV - Nam Định
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/xuepxz3ztn2ko7f/p82media",NTV - Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="ninhbinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/NTV_Ninh_B%C3%ACnh.png/revision/latest/scale-to-width-down/180?cb=20220827022815&path-prefix=vi",NTV - Ninh Bình
+#EXTINF:-1 tvg-id="ninhbinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/9ti9ejmgzasve52/p82media",NTV - Ninh Bình
 http://103.90.220.236/nbtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ninhthuan" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/icycpiq3w9t34ha/p82media",NTV - Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1263856760.m3u8
