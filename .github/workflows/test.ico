@@ -540,7 +540,7 @@ http://210.210.155.35/dr9445/h/h14/index.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/180?cb=20220205114518&path-prefix=vi",CGTN
 http://103.130.141.67:81/live/3/playlist.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/jn0raimaz683lx1/p82media",CGTN DOCUMENTARY
 http://103.130.141.67:81/live/4/playlist.m3u8
 #EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png",CLUBBING TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
