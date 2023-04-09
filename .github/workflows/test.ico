@@ -176,7 +176,7 @@ https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=P82Media
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTVC_Gia_%C4%90%C3%ACnh_logo_2018.png/revision/latest/scale-to-width-down/205?cb=20210625041805&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Gia đình
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://dl.dropboxusercontent.com/s/j7u5rjs6cgcidaf/p82media" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Gia đình
 #EXTVLCOPT:http-user-agent=P82Media
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="P82Media|🇻🇳|HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/HTVC_Ph%E1%BB%A5_N%E1%BB%AF_logo_white_text.png/revision/latest/scale-to-width-down/210?cb=20220512003115&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-phu-nu/${start}/${offset}",HTVC Phụ nữ
@@ -364,7 +364,7 @@ https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hagiang" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/Logo_HGTV_H%C3%A0_Giang_%282022%29.png/revision/latest/scale-to-width-down/180?cb=20220326031038&path-prefix=vi",HGTV - Hà Giang
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanam" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/mytv/40/auto/dvr-${start}-${end}.m3u8",THHN - Hà Nam
+#EXTINF:-1 tvg-id="hanam" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png",THHN - Hà Nam
 http://103.90.220.236/thhnlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/HanoiTV1_HD_2020.png/revision/latest/scale-to-width-down/200?cb=20220816115058&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8",H1 - Hà Nội
 https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
@@ -398,7 +398,7 @@ https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 tvg-id="laichau" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/LTV_Lai_Ch%C3%A2u_05-06-2022.png/revision/latest/scale-to-width-down/180?cb=20220606070144&path-prefix=vi",LTV - Lai Châu
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="lamdong" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/LTV_Lam_Dong.png/revision/latest/scale-to-width-down/190?cb=20211112124458&path-prefix=vi",LTV - Lâm Đồng
+#EXTINF:-1 tvg-id="lamdong" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/6edm28s7w1s631p/p82media",LTV - Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/LSTV.png/revision/latest/scale-to-width-down/180?cb=20220629080800&path-prefix=vi",LSTV - Lạng Sơn
 http://103.90.220.236/lstvlive/tv1live.m3u8
@@ -409,7 +409,7 @@ https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
 #EXTINF:-1 tvg-id="namdinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/NTV_logo_12-09-2021_%28B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/200?cb=20220821104142&path-prefix=vi",NTV - Nam Định
 #EXTVLCOPT:http-user-agent=P82Media
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="nghean" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/Logo_NTV_Ngh%E1%BB%87_An.png/revision/latest/scale-to-width-down/180?cb=20210313123729&path-prefix=vi",NTV - Nghệ An
+#EXTINF:-1 tvg-id="nghean" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://dl.dropboxusercontent.com/s/xuepxz3ztn2ko7f/p82media",NTV - Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="P82Media|🇻🇳|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/NTV_Ninh_B%C3%ACnh.png/revision/latest/scale-to-width-down/180?cb=20220827022815&path-prefix=vi",NTV - Ninh Bình
 http://103.90.220.236/nbtvlive/tv1live.m3u8
@@ -552,7 +552,7 @@ http://91.224.190.66:4245/bysid/50290
 http://103.56.156.30:8081/udp/225.1.1.142:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/a84efpp1ntmr24z/93Fm1pt06G3XN6aYpEY5YAafKvk_MOs_6Qj57Jn9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 #EXTINF:-1 tvg-id="davincihd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://cocopragency.com/wp-content/uploads/2017/07/Da-Vinci-Primary-Logo-RGB.png",Da Vinci
@@ -595,9 +595,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http:/
 https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hgtv" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png",HISTORY
+#EXTINF:-1 tvg-id="historyhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/6lgewgosue39vcy/p82media",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FhP2tARlu+kXQPeFcax5+g","kid":"Z2Xqe3zFTByGVR1rNECzmw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/28buj52jwjjoi3d/foZtrrNOW-eK41fjyhbCwuDlo3MbTzcuMYp42jLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://sglive.akamaized.net/bpk-tv/prod_history/default/index.mpd
 #EXTINF:-1 tvg-id="hits" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",HITS
@@ -607,7 +607,7 @@ https://sglive.akamaized.net/bpk-tv/prod_history/default/index.mpd
 https://sglive.akamaized.net/bpk-tv/prod_hitshd/default/index.mpd
 #EXTINF:-1 tvg-id="hitsmovies" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png",HITS MOVIES
 http://210.210.155.35/session/f73ff388-b2d2-11ed-8d27-c81f66f89318/dr9445/h/h38/index.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest/scale-to-width-down/200?cb=20211017093150&path-prefix=vi",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/in05vbtwstfumnj/p82media",Hollywood Classics
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="P82Media|🌏|Quốc tế",K+
 http://210.210.155.35/session/9c2503ec-b2c5-11ed-8b6a-b82a72d63267/uq2663/h/h08/index.m3u8
@@ -695,12 +695,12 @@ http://210.210.155.35/session/598ab8d4-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h21/
 http://210.210.155.35/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/Warner_TV_Asia.png/revision/latest/scale-to-width-down/200?cb=20221112073918&path-prefix=vi",Warner TV
 http://103.56.156.30:8081/udp/225.1.4.14:30120
-#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://lh3.googleusercontent.com/3EY0ovSEZCfmbSyu5CTOhpUmrAFeew6v54t6bqa9E56ws7UTrQKGxs-XIkxsKHyAobA",WION TV
+#EXTINF:-1 group-title="P82Media|🌏|Quốc tế" tvg-logo="https://dl.dropboxusercontent.com/s/8evdn35u4ku5pvj/p82media",WION TV
 http://91.224.190.66:4243/bysid/52119
 #EXTINF:-1 tvg-id="woman" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/40/WOMAN_logo_3D.png/revision/latest/scale-to-width-down/190?cb=20220713121123&path-prefix=vi",WOMAN
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Xing_Kong_China.svg/revision/latest/scale-to-width-down/250" group-title="P82Media|🌏|Quốc tế",Xing Kong
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/5kp78gkhi2xhfka/p82media" group-title="P82Media|🌏|Quốc tế",Xing Kong
 http://live.cooltv.top/tv/good.php?id=xingkong_1500
 #EXTINF:-1 tvg-id="zoomoo" group-title="P82Media|🌏|Quốc tế" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-_5jyWGNRYVCQB2j99YGLsBBLQljRgs80a2yFkhA=s900-c-k-c0x00ffffff-no-rj",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
