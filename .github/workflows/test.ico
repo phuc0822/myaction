@@ -86,55 +86,12 @@ http://103.179.188.40/onplus/segment/THETHAO_GOLF_HD/m401_index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 http://103.179.188.40/onplus/segment/BTV5/m30_index.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://dl.dropboxusercontent.com/s/yibpd50b2ovzv14/p82media",K+CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/3vzgzrrpx0e5a3t/vstv339
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="klifehd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://dl.dropboxusercontent.com/s/uvpw6o2ot66s7k4/p82media",K+LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/o2a0ih32wz0xgbw/vstv340
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://dl.dropboxusercontent.com/s/akclqbv2dn34gg5/p82media",K+SPORT1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uso69ohw849v0nv/vstv341
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="P82Media|🇻🇳|K+ MyTV" tvg-logo="https://dl.dropboxusercontent.com/s/joilsc2ziy12f7h/p82media",K+SPORT2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/g548is93xl0bqyg/vstv373
-http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-
 #EXTINF:-1 group-title="P82Media|🇻🇳|K+ VTVCab" tvg-id="kcinehd" tvg-logo="https://dl.dropboxusercontent.com/s/yibpd50b2ovzv14/p82media",K+CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 http://103.179.188.40/onplus/segment/K_CINE_6962/m20_index.m3u8
 #EXTINF:-1 group-title="P82Media|🇻🇳|K+ VTVCab" tvg-id="klifehd" tvg-logo="https://dl.dropboxusercontent.com/s/uvpw6o2ot66s7k4/p82media",K+LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 http://103.179.188.40/onplus/segment/K_LIFE_6962/m20_index.m3u8
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://dl.dropboxusercontent.com/s/yibpd50b2ovzv14/p82media",K+CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/ufwux2mvhpzxgmo/SkN-2L927m406yAOItuE_ELNLEq49ZjNAbTp-enW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://dl.dropboxusercontent.com/s/uvpw6o2ot66s7k4/p82media",K+LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/7yyqm9e9sse6gl2/a86jLEdKExN2kgLJUio_uzqr7h5me_Ir1DCmXQDy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://dl.dropboxusercontent.com/s/akclqbv2dn34gg5/p82media",K+SPORT1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/75m6kt9hr8hgxst/-AmYsOqSFPl2bKmRa_0Q8pjtsxY9z1veewEcYPmf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://dl.dropboxusercontent.com/s/joilsc2ziy12f7h/p82media",K+SPORT2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/or80ibalcdyio8g/ey17wMFjt6D8td1O8jcUFhlxREBkNJQx_kBpxYTy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="P82Media|🇻🇳|K+" tvg-logo="https://dl.dropboxusercontent.com/s/otswk7qm0dsrltj/p82media",K+KIDS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/4b2en0t6nki6r3x/F31WvdXdwYNOInUaTeIC-ixsLQVsrSNgUczDSFCN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 #EXTINF:-1 tvg-id="vovtvhd" group-title="P82Media|🇻🇳|Thiết yếu" tvg-logo="https://dl.dropboxusercontent.com/s/x4qxqgafznxit0s/p82media",VOV TV
 http://103.90.220.236/vovlive/tv1live.m3u8
